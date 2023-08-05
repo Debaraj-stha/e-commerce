@@ -1,0 +1,3821 @@
+[
+  {
+    "name": "Ray-Ban RB2132 New Wayfarer",
+    "shopId": "82b71c9e64b5234b7c83e53f",
+    "deliveryCharge": 50,
+    "category": "sunglasses",
+    "subCategory": "men",
+    "tag": ["sunglasses", "fashion", "men"],
+    "salesPrice": "15000",
+    "price": "18000",
+    "hilights": [
+      "Classic Wayfarer design",
+      "100% UV protection",
+      "Durable acetate frame",
+      "Available in various colors",
+      "Polarized lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Ray-Ban",
+    "warranty": "true",
+    "instock": "15"
+  },
+  {
+    "name": "Oakley OO9208 Radar EV Path",
+    "shopId": "c8d2a469dc992e678f2d7059",
+    "deliveryCharge": 40,
+    "category": "sunglasses",
+    "subCategory": "men",
+    "tag": ["sunglasses", "sports", "men"],
+    "salesPrice": "20000",
+    "price": "22000",
+    "hilights": [
+      "High-performance sport sunglasses",
+      "Prizm lens technology",
+      "Lightweight and durable frame",
+      "Enhanced peripheral vision",
+      "Interchangeable lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Oakley",
+    "warranty": "true",
+    "instock": "12"
+  },
+  {
+    "name": "Maui Jim MJ429 Banyans",
+    "shopId": "1e53c2a6e1e9b45a9c8b041c",
+    "deliveryCharge": 60,
+    "category": "sunglasses",
+    "subCategory": "men",
+    "tag": ["sunglasses", "polarized", "men"],
+    "salesPrice": "18000",
+    "price": "20000",
+    "hilights": [
+      "Polarized sunglasses",
+      "Stylish wraparound design",
+      "Lightweight and comfortable",
+      "Scratch-resistant lenses",
+      "Available in different lens colors"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Maui Jim",
+    "warranty": "true",
+    "instock": "8"
+  },
+  {
+    "name": "Gucci GG0061S",
+    "shopId": "6a5f9770e3e2f8631e2f9a6c",
+    "deliveryCharge": 70,
+    "category": "sunglasses",
+    "subCategory": "men",
+    "tag": ["sunglasses", "luxury", "men"],
+    "salesPrice": "25000",
+    "price": "28000",
+    "hilights": [
+      "Luxury sunglasses with iconic design",
+      "UV protection",
+      "Acetate frame with metal accents",
+      "Available in different colors",
+      "Gradient lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Gucci",
+    "warranty": "true",
+    "instock": "6"
+  },
+  {
+    "name": "Prada PR 01OS",
+    "shopId": "91883c972d8fa5e26805f647",
+    "deliveryCharge": 50,
+    "category": "sunglasses",
+    "subCategory": "men",
+    "tag": ["sunglasses", "designer", "men"],
+    "salesPrice": "30000",
+    "price": "33000",
+    "hilights": [
+      "Designer sunglasses with sleek style",
+      "100% UV protection",
+      "High-quality materials",
+      "Available in different frame colors",
+      "Gradient lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Prada",
+    "warranty": "true",
+    "instock": "10"
+  },
+  {
+    "name": "Versace VE4361",
+    "shopId": "4ef437b27d09a1e9878ef9f2",
+    "deliveryCharge": 60,
+    "category": "sunglasses",
+    "subCategory": "men",
+    "tag": ["sunglasses", "fashion", "men"],
+    "salesPrice": "22000",
+    "price": "25000",
+    "hilights": [
+      "Fashionable sunglasses with Medusa logo",
+      "100% UV protection",
+      "Durable and stylish frame",
+      "Available in different frame colors",
+      "Polarized lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Versace",
+    "warranty": "true",
+    "instock": "15"
+  },
+  {
+    "name": "Ray-Ban RB4171 Erika",
+    "shopId": "b5d82a09edc02c89b847eb95",
+    "deliveryCharge": 40,
+    "category": "sunglasses",
+    "subCategory": "women",
+    "tag": ["sunglasses", "fashion", "women"],
+    "salesPrice": "12000",
+    "price": "15000",
+    "hilights": [
+      "Stylish round sunglasses",
+      "100% UV protection",
+      "Lightweight and comfortable",
+      "Available in various colors",
+      "Gradient lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Ray-Ban",
+    "warranty": "true",
+    "instock": "18"
+  },
+  {
+    "name": "Michael Kors MK2024",
+    "shopId": "ab0a7e1b8e2ff6972bc66e88",
+    "deliveryCharge": 50,
+    "category": "sunglasses",
+    "subCategory": "women",
+    "tag": ["sunglasses", "designer", "women"],
+    "salesPrice": "18000",
+    "price": "20000",
+    "hilights": [
+      "Designer sunglasses with elegant design",
+      "100% UV protection",
+      "High-quality materials",
+      "Available in different frame colors",
+      "Gradient lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Michael Kors",
+    "warranty": "true",
+    "instock": "10"
+  },
+  {
+    "name": "Gucci GG0034S",
+    "shopId": "6a5f9770e3e2f8631e2f9a6c",
+    "deliveryCharge": 70,
+    "category": "sunglasses",
+    "subCategory": "women",
+    "tag": ["sunglasses", "luxury", "women"],
+    "salesPrice": "25000",
+    "price": "28000",
+    "hilights": [
+      "Luxury sunglasses with cat-eye design",
+      "100% UV protection",
+      "Acetate frame with metal accents",
+      "Available in different colors",
+      "Gradient lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Gucci",
+    "warranty": "true",
+    "instock": "8"
+  },
+  {
+    "name": "Prada PR 16RS",
+    "shopId": "91883c972d8fa5e26805f647",
+    "deliveryCharge": 50,
+    "category": "sunglasses",
+    "subCategory": "women",
+    "tag": ["sunglasses", "designer", "women"],
+    "salesPrice": "30000",
+    "price": "33000",
+    "hilights": [
+      "Designer sunglasses with oversized style",
+      "100% UV protection",
+      "High-quality materials",
+      "Available in different frame colors",
+      "Gradient lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Prada",
+    "warranty": "true",
+    "instock": "12"
+  },
+  {
+    "name": "Versace VE2161",
+    "shopId": "4ef437b27d09a1e9878ef9f2",
+    "deliveryCharge": 60,
+    "category": "sunglasses",
+    "subCategory": "women",
+    "tag": ["sunglasses", "fashion", "women"],
+    "salesPrice": "22000",
+    "price": "25000",
+    "hilights": [
+      "Fashionable sunglasses with Medusa logo",
+      "100% UV protection",
+      "Durable and stylish frame",
+      "Available in different frame colors",
+      "Gradient lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Versace",
+    "warranty": "true",
+    "instock": "15"
+  },
+  {
+    "name": "Ray-Ban RB3025 Aviator",
+    "shopId": "b5d82a09edc02c89b847eb95",
+    "deliveryCharge": 40,
+    "category": "sunglasses",
+    "subCategory": "unisex",
+    "tag": ["sunglasses", "aviator", "unisex"],
+    "salesPrice": "14000",
+    "price": "17000",
+    "hilights": [
+      "Classic Aviator sunglasses",
+      "100% UV protection",
+      "Metal frame",
+      "Available in various colors",
+      "Gradient lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Ray-Ban",
+    "warranty": "true",
+    "instock": "20"
+  },
+  {
+    "name": "Oakley OO9208 Radar EV Path",
+    "shopId": "c8d2a469dc992e678f2d7059",
+    "deliveryCharge": 40,
+    "category": "sunglasses",
+    "subCategory": "unisex",
+    "tag": ["sunglasses", "sports", "unisex"],
+    "salesPrice": "20000",
+    "price": "22000",
+    "hilights": [
+      "High-performance sport sunglasses",
+      "Prizm lens technology",
+      "Lightweight and durable frame",
+      "Enhanced peripheral vision",
+      "Interchangeable lenses"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Oakley",
+    "warranty": "true",
+    "instock": "15"
+  },
+  {
+    "name": "Maui Jim MJ429 Banyans",
+    "shopId": "1e53c2a6e1e9b45a9c8b041c",
+    "deliveryCharge": 60,
+    "category": "sunglasses",
+    "subCategory": "unisex",
+    "tag": ["sunglasses", "polarized", "unisex"],
+    "salesPrice": "18000",
+    "price": "20000",
+    "hilights": [
+      "Polarized sunglasses",
+      "Stylish wraparound design",
+      "Lightweight and comfortable",
+      "Scratch-resistant lenses",
+      "Available in different lens colors"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Maui Jim",
+    "warranty": "true",
+    "instock": "8"
+  },
+  {
+    "name": "Gucci GG0034S",
+    "shopId": "6a5f9770e3e2f8631e2f9a6c",
+    "deliveryCharge": 70,
+    "category": "sunglasses",
+    "subCategory": "unisex",
+    "tag": ["sunglasses", "luxury", "unisex"],
+    "salesPrice": "25000",
+    "price": "28000",
+    "hilights": [
+      "Polarized sunglasses",
+      "Stylish wraparound design",
+      "Lightweight and comfortable",
+      "Scratch-resistant lenses",
+      "Available in different lens colors"
+    ],
+    "images": [
+      "https://static-01.daraz.com.np/p/00a51135a7d9cf5adf2ec6c65af06bdd.jpg"
+    ],
+    "brand": "Maui Jim",
+    "warranty": "true",
+    "instock": "8"
+  },
+  
+    {
+      "name": "Floral Print Maxi Dress",
+      "shopId": "82b71c9e64b5234b7c83e53f",
+      "deliveryCharge": 50,
+      "category": "clothing",
+      "subCategory": "women",
+      "tag": ["dress", "floral", "maxi"],
+      "salesPrice": "2500",
+      "price": "3000",
+      "highlights": [
+        "Floral print design",
+        "Maxi length",
+        "Soft and comfortable fabric",
+        "Perfect for casual occasions",
+        "Available in multiple sizes"
+      ],
+      "images": [
+        "https://static-01.daraz.com.np/p/d8adccf6cd65f1b1fcf6ad672514444c.png"
+      ],
+      "brand": "Fashion House",
+      "warranty": "false",
+      "instock": "15"
+    },
+    {
+      "name": "Striped Cotton T-Shirt",
+      "shopId": "c8d2a469dc992e678f2d7059",
+      "deliveryCharge": 40,
+      "category": "clothing",
+      "subCategory": "women",
+      "tag": ["t-shirt", "striped", "cotton"],
+      "salesPrice": "800",
+      "price": "1000",
+      "highlights": [
+        "Classic striped pattern",
+        "Made with soft cotton fabric",
+        "Round neckline",
+        "Short sleeves",
+        "Available in different sizes and colors"
+      ],
+      "images": [
+        "https://static-01.daraz.com.np/p/d8adccf6cd65f1b1fcf6ad672514444c.png"
+      ],
+      "brand": "Essentials",
+      "warranty": "false",
+      "instock": "20"
+    },
+    {
+      "name": "Ruffled Chiffon Blouse",
+      "shopId": "1e53c2a6e1e9b45a9c8b041c",
+      "deliveryCharge": 60,
+      "category": "clothing",
+      "subCategory": "women",
+      "tag": ["blouse", "ruffled", "chiffon"],
+      "salesPrice": "1800",
+      "price": "2000",
+      "highlights": [
+        "Elegant ruffled design",
+        "Made of lightweight chiffon fabric",
+        "V-neckline",
+        "Long sleeves",
+        "Available in various colors"
+      ],
+      "images": [
+        "https://static-01.daraz.com.np/p/d8adccf6cd65f1b1fcf6ad672514444c.png"
+      ],
+      "brand": "Trendy Chic",
+      "warranty": "false",
+      "instock": "12"
+    },
+    {
+      "name": "High-Waisted Skinny Jeans",
+      "shopId": "6a5f9770e3e2f8631e2f9a6c",
+      "deliveryCharge": 70,
+      "category": "clothing",
+      "subCategory": "women",
+      "tag": ["jeans", "high-waisted", "skinny"],
+      "salesPrice": "2500",
+      "price": "2800",
+      "highlights": [
+        "Classic skinny fit",
+        "High-waisted design",
+        "Stretchable denim fabric",
+        "Five-pocket styling",
+        "Available in different sizes and washes"
+      ],
+      "images": [
+        "https://static-01.daraz.com.np/p/d8adccf6cd65f1b1fcf6ad672514444c.png"
+      ],
+      "brand": "Denim Co.",
+      "warranty": "false",
+      "instock": "8"
+    },
+    {
+      "name": "Off-Shoulder Crop Top",
+      "shopId": "91883c972d8fa5e26805f647",
+      "deliveryCharge": 50,
+      "category": "clothing",
+      "subCategory": "women",
+      "tag": ["crop top", "off-shoulder", "fashion"],
+      "salesPrice": "1200",
+      "price": "1500",
+      "highlights": [
+        "Stylish off-shoulder design",
+        "Crop top length",
+        "Made with comfortable fabric",
+        "Short sleeves",
+        "Available in various colors"
+      ],
+      "images": [
+        "https://static-01.daraz.com.np/p/d8adccf6cd65f1b1fcf6ad672514444c.png"
+      ],
+      "brand": "Trendy Style",
+      "warranty": "false",
+      "instock": "18"
+    },
+    {
+      "name": "Printed Midi Skirt",
+      "shopId": "4ef437b27d09a1e9878ef9f2",
+      "deliveryCharge": 60,
+      "category": "clothing",
+      "subCategory": "women",
+      "tag": ["skirt", "printed", "midi"],
+      "salesPrice": "2200",
+      "price": "2500",
+      "highlights": [
+        "Midi length",
+        "Printed pattern",
+        "Elastic waistband",
+        "Flowy and comfortable fabric",
+        "Available in different prints"
+      ],
+      "images": [
+        "https://static-01.daraz.com.np/p/d8adccf6cd65f1b1fcf6ad672514444c.png"
+      ],
+      "brand": "Fashion Forward",
+      "warranty": "false",
+      "instock": "15"
+    },
+    {
+      "name": "Fit and Flare Dress",
+      "shopId": "b5d82a09edc02c89b847eb95",
+      "deliveryCharge": 40,
+      "category": "clothing",
+      "subCategory": "women",
+      "tag": ["dress", "fit and flare", "fashion"],
+      "salesPrice": "2000",
+      "price": "2200",
+      "highlights": [
+        "Fit and flare silhouette",
+        "Sleeveless design",
+        "Soft and stretchable fabric",
+        "Round neckline",
+        "Available in various colors"
+      ],
+      "images": [
+        "https://static-01.daraz.com.np/p/d8adccf6cd65f1b1fcf6ad672514444c.png"
+      ],
+      "brand": "Style Avenue",
+      "warranty": "false",
+      "instock": "20"
+    },
+    {
+      "name": "Casual Linen Pants",
+      "shopId": "ab0a7e1b8e2ff6972bc66e88",
+      "deliveryCharge": 50,
+      "category": "clothing",
+      "subCategory": "women",
+      "tag": ["pants","fit and flare", "fashion"],
+      "salesPrice": "2000",
+      "price": "2200",
+      "highlights": [
+        "Fit and flare silhouette",
+        "Sleeveless design",
+        "Soft and stretchable fabric",
+        "Round neckline",
+        "Available in various colors"
+      ],
+      "images": [
+        "https://static-01.daraz.com.np/p/d8adccf6cd65f1b1fcf6ad672514444c.png"
+      ],
+      "brand": "Style Avenue",
+      "warranty": "false",
+      "instock": "20"
+    },
+      {
+        "name": "Nike Air Max 270",
+        "shopId": "f8b0c60b294e7a7d2f33423c",
+        "deliveryCharge": 50,
+        "category": "footwear",
+        "subCategory": "women's shoes",
+        "tag": [
+          "Sneakers",
+          "Running",
+          "Sports"
+        ],
+        "salesPrice": "8500",
+        "price": "9500",
+        "highlights": [
+          "Air Max cushioning for comfort",
+          "Breathable mesh upper",
+          "Rubber outsole for traction",
+          "Stylish design"
+        ],
+        "images": [
+          "https://static-01.daraz.com.np/p/2c7f43e2a5db430775cf812e49428ef1.jpg"
+        ],
+        "brand": "Nike",
+        "warranty": "false",
+        "instock": "25"
+      },
+      {
+        "name": "Adidas Ultraboost",
+        "shopId": "73ebd4f2d9eab375c7d91a01",
+        "deliveryCharge": 60,
+        "category": "footwear",
+        "subCategory": "women's shoes",
+        "tag": [
+          "Sneakers",
+          "Running",
+          "Sports"
+        ],
+        "salesPrice": "9500",
+        "price": "10500",
+        "highlights": [
+          "Responsive Boost cushioning",
+          "Stretchy and breathable Primeknit upper",
+          "Continental Rubber outsole",
+          "Stylish and comfortable"
+        ],
+        "images": [
+          "https://static-01.daraz.com.np/p/2c7f43e2a5db430775cf812e49428ef1.jpg"
+        ],
+        "brand": "Adidas",
+        "warranty": "false",
+        "instock": "20"
+      },
+      {
+        "name": "Puma Suede Classic",
+        "shopId": "4ac9e55d2482cdd711fd5b3d",
+        "deliveryCharge": 40,
+        "category": "footwear",
+        "subCategory": "women's shoes",
+        "tag": [
+          "Sneakers",
+          "Casual",
+          "Fashion"
+        ],
+        "salesPrice": "6000",
+        "price": "7000",
+        "highlights": [
+          "Suede upper for durability",
+          "Rubber outsole for traction",
+          "Classic and timeless design",
+          "Comfortable fit"
+        ],
+        "images": [
+          "https://static-01.daraz.com.np/p/2c7f43e2a5db430775cf812e49428ef1.jpg"
+        ],
+        "brand": "Puma",
+        "warranty": "false",
+        "instock": "15"
+      },
+      {
+        "name": "Reebok Classic Leather",
+        "shopId": "9aef66c20259c2d3cfd2f098",
+        "deliveryCharge": 50,
+        "category": "footwear",
+        "subCategory": "women's shoes",
+        "tag": [
+          "Sneakers",
+          "Casual",
+          "Fashion"
+        ],
+        "salesPrice": "5500",
+        "price": "6500",
+        "highlights": [
+          "Genuine leather upper",
+          "EVA midsole for cushioning",
+          "Durable rubber outsole",
+          "Iconic Reebok design"
+        ],
+        "images": [
+          "https://static-01.daraz.com.np/p/2c7f43e2a5db430775cf812e49428ef1.jpg"
+        ],
+        "brand": "Reebok",
+        "warranty": "false",
+        "instock": "18"
+      },
+      {
+        "name": "Converse Chuck Taylor All Star",
+        "shopId": "a1e789f2d749eb07d852faca",
+        "deliveryCharge": 45,
+        "category": "footwear",
+        "subCategory": "women's shoes",
+        "tag": [
+          "Sneakers",
+          "Casual",
+          "Fashion"
+        ],
+        "salesPrice": "4000",
+        "price": "4500",
+        "highlights": [
+          "Canvas upper",
+          "Rubber outsole",
+          "Timeless and versatile design",
+          "Lace-up closure"
+        ],
+        "images": [
+          "https://static-01.daraz.com.np/p/2c7f43e2a5db430775cf812e49428ef1.jpg"
+        ],
+        "brand": "Converse",
+        "warranty": "false",
+        "instock": "22"
+      },
+      {
+        "name": "Vans Old Skool",
+        "shopId": "1a98f6c76d53a9b79d6b842f",
+        "deliveryCharge": 40,
+        "category": "footwear",
+        "subCategory": "women's shoes",
+        "tag": [
+          "Sneakers",
+          "Skateboarding",
+          "Fashion"
+        ],
+        "salesPrice": "5500",
+        "price": "6500",
+        "highlights": [
+          "Canvas and suede upper",
+          "Padded collar for support and flexibility",
+          "Signature Vans side stripe",
+          "Waffle outsole for grip"
+        ],
+        "images": [
+          "https://static-01.daraz.com.np/p/2c7f43e2a5db430775cf812e49428ef1.jpg"
+        ],
+        "brand": "Vans",
+        "warranty": "false",
+        "instock": "20"
+      },
+      {
+        "name": "New Balance 574",
+        "shopId": "e7f1b928b2a03d665db293a8",
+        "deliveryCharge": 50,
+        "category": "footwear",
+        "subCategory": "women's shoes",
+        "tag": [
+          "Sneakers",
+          "Casual",
+          "Fashion"
+        ],
+        "salesPrice": "6500",
+        "price": "7500",
+        "highlights": [
+          "Suede and mesh upper",
+          "ENCAP midsole for cushioning",
+          "Rubber outsole for traction",
+          "Classic New Balance design"
+        ],
+        "images": [
+          "https://static-01.daraz.com.np/p/2c7f43e2a5db430775cf812e49428ef1.jpg"
+        ],
+        "brand": "New Balance",
+        "warranty": "false",
+        "instock": "15"
+      },
+      
+        {
+          "name": "Michael Kors Selma Satchel",
+          "shopId": "82b71c9e64b5234b7c83e53f",
+          "deliveryCharge": 50,
+          "category": "women bags",
+          "subCategory": "handbags",
+          "tag": ["bag", "fashion", "women"],
+          "salesPrice": "25000",
+          "price": "28000",
+          "hilights": [
+            "Saffiano leather",
+            "Gold-tone hardware",
+            "Top zip closure",
+            "Adjustable and removable shoulder strap",
+            "Multiple interior pockets"
+          ],
+          "images": [
+            "https://static-01.daraz.com.np/p/338d77c0f2da2990dcf759d5d3c20b9c.jpg"
+          ],
+          "brand": "Michael Kors",
+          "warranty": "true",
+          "instock": "15"
+        },
+        {
+          "name": "Coach Prairie Satchel",
+          "shopId": "c8d2a469dc992e678f2d7059",
+          "deliveryCharge": 40,
+          "category": "women bags",
+          "subCategory": "handbags",
+          "tag": ["bag", "luxury", "women"],
+          "salesPrice": "35000",
+          "price": "38000",
+          "hilights": [
+            "Crossgrain leather",
+            "Zip-top closure",
+            "Detachable strap",
+            "Interior zip and multifunction pockets",
+            "Exterior slip pocket"
+          ],
+          "images": [
+            "https://static-01.daraz.com.np/p/338d77c0f2da2990dcf759d5d3c20b9c.jpg"
+          ],
+          "brand": "Coach",
+          "warranty": "true",
+          "instock": "12"
+        },
+        {
+          "name": "Kate Spade New York Cameron Medium Satchel",
+          "shopId": "1e53c2a6e1e9b45a9c8b041c",
+          "deliveryCharge": 60,
+          "category": "women bags",
+          "subCategory": "handbags",
+          "tag": ["bag", "designer", "women"],
+          "salesPrice": "28000",
+          "price": "30000",
+          "hilights": [
+            "Saffiano leather",
+            "Zip-top closure",
+            "Dual handles",
+            "Interior zip and slip pockets",
+            "Exterior slip pocket"
+          ],
+          "images": [
+            "https://static-01.daraz.com.np/p/338d77c0f2da2990dcf759d5d3c20b9c.jpg"
+          ],
+          "brand": "Kate Spade",
+          "warranty": "true",
+          "instock": "8"
+        },
+        {
+          "name": "Gucci GG Marmont Matelassé Mini Bag",
+          "shopId": "6a5f9770e3e2f8631e2f9a6c",
+          "deliveryCharge": 70,
+          "category": "women bags",
+          "subCategory": "handbags",
+          "tag": ["bag", "luxury", "women"],
+          "salesPrice": "45000",
+          "price": "48000",
+          "hilights": [
+            "Quilted leather",
+            "Antique gold-toned hardware",
+            "Flap with GG logo and magnetic closure",
+            "Chain shoulder strap",
+            "Microfiber lining"
+          ],
+          "images": [
+            "https://static-01.daraz.com.np/p/338d77c0f2da2990dcf759d5d3c20b9c.jpg"
+          ],
+          "brand": "Gucci",
+          "warranty": "true",
+          "instock": "6"
+        },
+        {
+          "name": "Prada Saffiano Lux Tote",
+          "shopId": "91883c972d8fa5e26805f647",
+          "deliveryCharge": 50,
+          "category": "women bags",
+          "subCategory": "handbags",
+          "tag": ["bag", "designer", "women"],
+          "salesPrice": "55000",
+          "price": "60000",
+          "hilights": [
+            "Saffiano leather",
+            "Gold-plated hardware",
+            "Double handle",
+            "Snap closure",
+            "Metal lettering logo"
+          ],
+          "images": [
+            "https://static-01.daraz.com.np/p/338d77c0f2da2990dcf759d5d3c20b9c.jpg"
+          ],
+          "brand": "Prada",
+          "warranty": "true",
+          "instock": "10"
+        },
+        {
+          "name": "Louis Vuitton Speedy Bandoulière 30",
+          "shopId": "4ef437b27d09a1e9878ef9f2",
+          "deliveryCharge": 60,
+          "category": "women bags",
+          "subCategory": "handbags",
+          "tag": ["bag", "luxury", "women"],
+          "salesPrice": "75000",
+          "price": "80000",
+          "hilights": [
+            "Monogram canvas",
+            "Golden brass hardware",
+            "Double zip closure",
+            "Removable and adjustable strap",
+            "Padlock and key bell"
+          ],
+          "images": [
+            "https://static-01.daraz.com.np/p/338d77c0f2da2990dcf759d5d3c20b9c.jpg"
+          ],
+          "brand": "Louis Vuitton",
+          "warranty": "true",
+          "instock": "15"
+        },
+        {
+          "name": "Longchamp Le Pliage Tote",
+          "shopId": "b5d82a09edc02c89b847eb95",
+          "deliveryCharge": 40,
+          "category": "women bags",
+          "subCategory": "handbags",
+          "tag": ["bag", "fashion", "women"],
+          "salesPrice": "12000",
+          "price": "15000",
+          "hilights": [
+            "Nylon with leather trim",
+            "Top zip closure",
+            "Double handles",
+            "Interior slip pocket",
+            "Foldable and lightweight"
+          ],
+          "images": [
+            "https://static-01.daraz.com.np/p/338d77c0f2da2990dcf759d5d3c20b9c.jpg"
+          ],
+          "brand": "Longchamp",
+          "warranty": "true",
+          "instock": "18"
+        },
+        
+          {
+            "name": "Dove Deep Moisture Body Wash",
+            "shopId": "64b00a7c7eba0d1140ff4e16",
+            "deliveryCharge": 60,
+            "category": "health and body",
+            "subCategory": "bath and body",
+            "tag": [
+              "Skincare",
+              "Body Wash",
+              "Moisturizing"
+            ],
+            "salesPrice": "250",
+            "price": "300",
+            "hilights": [
+              "Nourishes and hydrates the skin",
+              "Leaves skin feeling soft and smooth",
+              "Gentle formula suitable for daily use"
+            ],
+            "images": [
+              "https://static-01.daraz.com.np/p/b28ba5d2e1f321ac00ed84a484b2e9f9.jpg"
+            ],
+            "brand": "Dove",
+            "warranty": "false",
+            "instock": "50"
+          },
+          {
+            "name": "Nivea Creme",
+            "shopId": "64b00a7c7eba0d1140ff4e16",
+            "deliveryCharge": 60,
+            "category": "health and body",
+            "subCategory": "bath and body",
+            "tag": [
+              "Skincare",
+              "Moisturizer",
+              "Multipurpose"
+            ],
+            "salesPrice": "200",
+            "price": "250",
+            "hilights": [
+              "Intensively moisturizes and nourishes",
+              "Suitable for all skin types",
+              "Can be used on face, hands, and body"
+            ],
+            "images": [
+              "https://static-01.daraz.com.np/p/b28ba5d2e1f321ac00ed84a484b2e9f9.jpg"
+            ],
+            "brand": "Nivea",
+            "warranty": "false",
+            "instock": "70"
+          },
+          {
+            "name": "Cetaphil Gentle Skin Cleanser",
+            "shopId": "64b00a7c7eba0d1140ff4e16",
+            "deliveryCharge": 60,
+            "category": "health and body",
+            "subCategory": "bath and body",
+            "tag": [
+              "Skincare",
+              "Cleanser",
+              "Sensitive Skin"
+            ],
+            "salesPrice": "350",
+            "price": "400",
+            "hilights": [
+              "Mild and non-irritating formula",
+              "Gently cleanses without stripping skin's natural oils",
+              "Ideal for sensitive and dry skin"
+            ],
+            "images": [
+              "https://static-01.daraz.com.np/p/b28ba5d2e1f321ac00ed84a484b2e9f9.jpg"
+            ],
+            "brand": "Cetaphil",
+            "warranty": "false",
+            "instock": "40"
+          },
+          {
+            "name": "The Body Shop Shea Body Butter",
+            "shopId": "64b00a7c7eba0d1140ff4e16",
+            "deliveryCharge": 60,
+            "category": "health and body",
+            "subCategory": "bath and body",
+            "tag": [
+              "Skincare",
+              "Body Butter",
+              "Intensive Moisturizer"
+            ],
+            "salesPrice": "600",
+            "price": "650",
+            "hilights": [
+              "Deeply moisturizes and nourishes dry skin",
+              "Rich and creamy texture",
+              "Enriched with Community Trade shea butter"
+            ],
+            "images": [
+              "https://static-01.daraz.com.np/p/b28ba5d2e1f321ac00ed84a484b2e9f9.jpg"
+            ],
+            "brand": "The Body Shop",
+            "warranty": "false",
+            "instock": "30"
+          },
+          {
+            "name": "Neutrogena Hydro Boost Gel Cream",
+            "shopId": "64b00a7c7eba0d1140ff4e16",
+            "deliveryCharge": 60,
+            "category": "health and body",
+            "subCategory": "bath and body",
+            "tag": [
+              "Skincare",
+              "Moisturizer",
+              "Hydration"
+            ],
+            "salesPrice": "450",
+            "price": "500",
+            "hilights": [
+              "Lightweight gel formula",
+              "Provides intense hydration",
+              "Suitable for all skin types"
+            ],
+            "images": [
+              "https://static-01.daraz.com.np/p/b28ba5d2e1f321ac00ed84a484b2e9f9.jpg"
+            ],
+            "brand": "Neutrogena",
+            "warranty": "false",
+            "instock": "35"
+          },
+          {
+            "name": "Palmolive Aroma Morning Tonic Shower Gel",
+            "shopId": "64b00a7c7eba0d1140ff4e16",
+            "deliveryCharge": 60,
+            "category": "health and body",
+            "subCategory": "bath and body",
+            "tag": [
+              "Skincare",
+              "Shower Gel",
+              "Revitalizing"
+            ],
+            "salesPrice": "200",
+            "price": "250",
+            "hilights": [
+              "Energizing fragrance",
+              "Gently cleanses and refreshes the skin",
+              "Leaves a long-lasting fragrance"
+            ],
+            "images": [
+              "https://static-01.daraz.com.np/p/b28ba5d2e1f321ac00ed84a484b2e9f9.jpg"
+            ],
+            "brand": "Palmolive",
+            "warranty": "false",
+            "instock": "55"
+          },
+          {
+            "name": "Himalaya Herbals Neem Face Wash",
+            "shopId": "64b00a7c7eba0d1140ff4e16",
+            "deliveryCharge": 60,
+            "category": "health and body",
+            "subCategory": "bath and body",
+            "tag": [
+              "Skincare",
+              "Face Wash",
+              "Neem"
+            ],
+            "salesPrice": "150",
+            "price": "200",
+            "hilights": [
+              "Gentle yet effective cleanser",
+              "Contains neem and turmeric extracts",
+              "Helps prevent pimples and acne"
+            ],
+            "images": [
+              "https://static-01.daraz.com.np/p/b28ba5d2e1f321ac00ed84a484b2e9f9.jpg"
+            ],
+            "brand": "Himalaya Herbals",
+            "warranty": "false",
+            "instock": "60"
+          },
+          
+            {
+              "name": "Maybelline Fit Me Foundation",
+              "shopId": "a2b6f83c475a89d07e289e8c",
+              "deliveryCharge": 50,
+              "category": "makeup",
+              "subCategory": "foundation",
+              "tag": ["makeup", "foundation", "face"],
+              "salesPrice": "1200",
+              "price": "1500",
+              "hilights": [
+                "Natural coverage",
+                "Blurs pores and imperfections",
+                "Matte finish",
+                "Wide shade range",
+                "Suitable for all skin types"
+              ],
+              "images": [
+                "https://static-01.daraz.com.np/p/accb9dd359d35853943ebfd762e7c324.jpg"
+              ],
+              "brand": "Maybelline",
+              "warranty": "false",
+              "instock": "15"
+            },
+            {
+              "name": "L'Oreal Paris Voluminous Mascara",
+              "shopId": "c8d2a469dc992e678f2d7059",
+              "deliveryCharge": 40,
+              "category": "makeup",
+              "subCategory": "mascara",
+              "tag": ["makeup", "mascara", "eyes"],
+              "salesPrice": "800",
+              "price": "1000",
+              "hilights": [
+                "Bold volume and length",
+                "Clump-free formula",
+                "Intense black color",
+                "Suitable for sensitive eyes",
+                "Easy application"
+              ],
+              "images": [
+                "https://static-01.daraz.com.np/p/accb9dd359d35853943ebfd762e7c324.jpg"
+              ],
+              "brand": "L'Oreal Paris",
+              "warranty": "false",
+              "instock": "20"
+            },
+            {
+              "name": "NYX Professional Makeup Soft Matte Lip Cream",
+              "shopId": "1e53c2a6e1e9b45a9c8b041c",
+              "deliveryCharge": 60,
+              "category": "makeup",
+              "subCategory": "lipstick",
+              "tag": ["makeup", "lipstick", "lips"],
+              "salesPrice": "700",
+              "price": "900",
+              "hilights": [
+                "Velvety matte finish",
+                "Long-lasting formula",
+                "Wide range of shades",
+                "Non-drying",
+                "Easy to apply"
+              ],
+              "images": [
+                "https://static-01.daraz.com.np/p/accb9dd359d35853943ebfd762e7c324.jpg"
+              ],
+              "brand": "NYX Professional Makeup",
+              "warranty": "false",
+              "instock": "18"
+            },
+            {
+              "name": "Revlon ColorStay Eyeliner",
+              "shopId": "6a5f9770e3e2f8631e2f9a6c",
+              "deliveryCharge": 70,
+              "category": "makeup",
+              "subCategory": "eyeliner",
+              "tag": ["makeup", "eyeliner", "eyes"],
+              "salesPrice": "500",
+              "price": "600",
+              "hilights": [
+                "Long-lasting formula",
+                "Intense color payoff",
+                "Waterproof",
+                "Smudge-proof",
+                "Easy to apply"
+              ],
+              "images": [
+                "https://static-01.daraz.com.np/p/accb9dd359d35853943ebfd762e7c324.jpg"
+              ],
+              "brand": "Revlon",
+              "warranty": "false",
+              "instock": "15"
+            },
+            {
+              "name": "MAC Cosmetics Studio Fix Powder Plus Foundation",
+              "shopId": "91883c972d8fa5e26805f647",
+              "deliveryCharge": 50,
+              "category": "makeup",
+              "subCategory": "powder",
+              "tag": ["makeup", "powder", "face"],
+              "salesPrice": "2500",
+              "price": "2800",
+              "hilights": [
+                "Matte finish",
+                "Buildable coverage",
+                "Long-wearing formula",
+                "Controls oil and shine",
+                "Available in various shades"
+              ],
+              "images": [
+                "https://static-01.daraz.com.np/p/accb9dd359d35853943ebfd762e7c324.jpg"
+              ],
+              "brand": "MAC Cosmetics",
+              "warranty": "false",
+              "instock": "12"
+            },
+            {
+              "name": "Maybelline Instant Age Rewind Concealer",
+              "shopId": "4ef437b27d09a1e9878ef9f2",
+              "deliveryCharge": 60,
+              "category": "makeup",
+              "subCategory": "concealer",
+              "tag": ["makeup", "concealer", "face"],
+              "salesPrice": "1000",
+              "price": "1200",
+              "hilights": [
+                "Full coverage",
+                "Anti-aging properties",
+                "Brightens under-eye area",
+                "Easy application with built-in sponge",
+                "Blends seamlessly"
+              ],
+              "images": [
+                "https://static-01.daraz.com.np/p/accb9dd359d35853943ebfd762e7c324.jpg"
+              ],
+              "brand": "Maybelline",
+              "warranty": "false",
+              "instock": "20"
+            },
+            {
+              "name": "Anastasia Beverly Hills Brow Wiz",
+              "shopId": "b5d82a09edc02c89b847eb95",
+              "deliveryCharge": 40,
+              "category": "makeup",
+              "subCategory": "eyebrow",
+              "tag": ["makeup", "eyebrow", "eyes"],
+              "salesPrice": "1500",
+              "price": "1800",
+              "hilights": [
+                "Ultra-slim pencil",
+                "Precise application",
+                "Long-wearing formula",
+                "Available in various shades",
+                "Spoolie brush for blending"
+              ],
+              "images": [
+                "https://static-01.daraz.com.np/p/accb9dd359d35853943ebfd762e7c324.jpg"
+              ],
+              "brand": "Anastasia Beverly Hills",
+              "warranty": "false",
+              "instock": "15"
+            },
+            
+              {
+                "name": "Men's Casual Shirt",
+                "shopId": "a2b6f83c475a89d07e289e8c",
+                "deliveryCharge": 60,
+                "category": "clothing",
+                "subCategory": "men's clothing",
+                "tag": [
+                  "Shirt",
+                  "Casual",
+                  "Cotton"
+                ],
+                "salesPrice": "1500",
+                "price": "2000",
+                "hilights": [
+                  "Comfortable and stylish",
+                  "Made from high-quality cotton",
+                  "Perfect for everyday wear",
+                  "Available in various sizes and colors"
+                ],
+                "images": [
+                  "https://static-01.daraz.com.np/p/759ecde2843a49a36c3c5e4307e20524.jpg"
+                ],
+                "brand": "Generic",
+                "warranty": "false",
+                "instock": "30"
+              },
+              {
+                "name": "Men's Denim Jeans",
+                "shopId": "7e9823dcce551b94f7c65da0",
+                "deliveryCharge": 80,
+                "category": "clothing",
+                "subCategory": "men's clothing",
+                "tag": [
+                  "Jeans",
+                  "Denim",
+                  "Slim Fit"
+                ],
+                "salesPrice": "2500",
+                "price": "3000",
+                "hilights": [
+                  "Classic denim jeans",
+                  "Slim fit style",
+                  "Durable and comfortable",
+                  "Available in various sizes"
+                ],
+                "images": [
+                  "https://static-01.daraz.com.np/p/759ecde2843a49a36c3c5e4307e20524.jpg"
+                ],
+                "brand": "Generic",
+                "warranty": "false",
+                "instock": "20"
+              },
+              {
+                "name": "Men's Polo T-Shirt",
+                "shopId": "ac7d9a667f22f3b6c25a03d4",
+                "deliveryCharge": 70,
+                "category": "clothing",
+                "subCategory": "men's clothing",
+                "tag": [
+                  "T-Shirt",
+                  "Polo",
+                  "Cotton"
+                ],
+                "salesPrice": "800",
+                "price": "1000",
+                "hilights": [
+                  "Stylish polo t-shirt",
+                  "Made from soft and breathable cotton",
+                  "Ideal for casual occasions",
+                  "Available in various colors and sizes"
+                ],
+                "images": [
+                  "https://static-01.daraz.com.np/p/759ecde2843a49a36c3c5e4307e20524.jpg"
+                ],
+                "brand": "Generic",
+                "warranty": "false",
+                "instock": "40"
+              },
+              {
+                "name": "Men's Formal Shirt",
+                "shopId": "4e6bf7bcdb94f7b98c9510f8",
+                "deliveryCharge": 60,
+                "category": "clothing",
+                "subCategory": "men's clothing",
+                "tag": [
+                  "Shirt",
+                  "Formal",
+                  "Slim Fit"
+                ],
+                "salesPrice": "1800",
+                "price": "2200",
+                "hilights": [
+                  "Elegant formal shirt",
+                  "Slim fit design",
+                  "High-quality fabric",
+                  "Perfect for professional occasions"
+                ],
+                "images": [
+                  "https://static-01.daraz.com.np/p/759ecde2843a49a36c3c5e4307e20524.jpg"
+                ],
+                "brand": "Generic",
+                "warranty": "false",
+                "instock": "25"
+              },
+              {
+                "name": "Men's Chinos",
+                "shopId": "b67cc856c5a09d6422fba11f",
+                "deliveryCharge": 70,
+                "category": "clothing",
+                "subCategory": "men's clothing",
+                "tag": [
+                  "Chinos",
+                  "Slim Fit",
+                  "Cotton"
+                ],
+                "salesPrice": "2000",
+                "price": "2500",
+                "hilights": [
+                  "Classic chinos pants",
+                  "Slim fit style",
+                  "Made from comfortable cotton fabric",
+                  "Ideal for a smart casual look"
+                ],
+                "images": [
+                  "https://static-01.daraz.com.np/p/759ecde2843a49a36c3c5e4307e20524.jpg"
+                ],
+                "brand": "Generic",
+                "warranty": "false",
+                "instock": "18"
+              },
+              {
+                "name": "Men's Hooded Sweatshirt",
+                "shopId": "867ea6beed68a5131bc869fd",
+                "deliveryCharge": 90,
+                "category": "clothing",
+                "subCategory": "men's clothing",
+                "tag": [
+                  "Sweatshirt",
+                  "Hooded",
+                  "Casual"
+                ],
+                "salesPrice": "1500",
+                "price": "1800",
+                "hilights": [
+                  "Comfortable hooded sweatshirt",
+                  "Casual and stylish",
+                  "Warm and cozy",
+                  "Available in different colors and sizes"
+                ],
+                "images": [
+                  "https://static-01.daraz.com.np/p/759ecde2843a49a36c3c5e4307e20524.jpg"
+                ],
+                "brand": "Generic",
+                "warranty": "false",
+                "instock": "30"
+              },
+              {
+                "name": "Men's Shorts",
+                "shopId": "debcf81e98d1a135743a4340",
+                "deliveryCharge": 50,
+                "category": "clothing",
+                "subCategory": "men's clothing",
+                "tag": [
+                  "Shorts",
+                  "Casual",
+                  "Cotton"
+                ],
+                "salesPrice": "700",
+                "price": "900",
+                "hilights": [
+                  "Casual and comfortable shorts",
+                  "Made from lightweight cotton fabric",
+                  "Perfect for summer days",
+                  "Available in various colors and sizes"
+                ],
+                "images": [
+                  "https://static-01.daraz.com.np/p/759ecde2843a49a36c3c5e4307e20524.jpg"
+                ],
+                "brand": "Generic",
+                "warranty": "false",
+                "instock": "35"
+              },
+              
+                {
+                  "name": "Nike Air Max 270",
+                  "shopId": "a75f6bfb9e42b27a8842ae54",
+                  "deliveryCharge": 50,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "sneakers", "men"],
+                  "salesPrice": "12000",
+                  "price": "15000",
+                  "hilights": [
+                    "Comfortable and stylish sneakers",
+                    "Visible Max Air unit for cushioning",
+                    "Breathable mesh upper",
+                    "Durable rubber outsole",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Nike",
+                  "warranty": "true",
+                  "instock": "15"
+                },
+                {
+                  "name": "Adidas Ultraboost",
+                  "shopId": "b275a67884b65d9e2a5c2ebf",
+                  "deliveryCharge": 60,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "running", "men"],
+                  "salesPrice": "15000",
+                  "price": "18000",
+                  "hilights": [
+                    "High-performance running shoes",
+                    "Boost cushioning for responsive comfort",
+                    "Primeknit upper for a flexible fit",
+                    "Durable Continental rubber outsole",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Adidas",
+                  "warranty": "true",
+                  "instock": "12"
+                },
+                {
+                  "name": "Puma Suede Classic",
+                  "shopId": "5bc276a6d4e9e8f77c354c01",
+                  "deliveryCharge": 40,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "sneakers", "men"],
+                  "salesPrice": "8000",
+                  "price": "10000",
+                  "hilights": [
+                    "Classic and stylish suede sneakers",
+                    "Soft and comfortable upper",
+                    "Textured rubber sole for traction",
+                    "Padded collar and tongue",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Puma",
+                  "warranty": "true",
+                  "instock": "8"
+                },
+                {
+                  "name": "Reebok Classic Leather",
+                  "shopId": "9e27a78d2a3b2d64c894ab78",
+                  "deliveryCharge": 70,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "casual", "men"],
+                  "salesPrice": "7000",
+                  "price": "9000",
+                  "hilights": [
+                    "Timeless and versatile casual shoes",
+                    "Genuine leather upper",
+                    "EVA midsole for cushioning",
+                    "Durable rubber outsole",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Reebok",
+                  "warranty": "true",
+                  "instock": "6"
+                },
+                {
+                  "name": "Timberland 6-Inch Premium Boots",
+                  "shopId": "c829f5878a0e96263b6f1393",
+                  "deliveryCharge": 50,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "boots", "men"],
+                  "salesPrice": "18000",
+                  "price": "20000",
+                  "hilights": [
+                    "Classic and rugged boots",
+                    "Premium full-grain leather upper",
+                    "Seam-sealed waterproof construction",
+                    "Padded collar for comfort",
+                    "Durable rubber lug outsole"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Timberland",
+                  "warranty": "true",
+                  "instock": "6"
+                },
+                {
+                  "name": "Vans Old Skool",
+                  "shopId": "d7b51f51e3a4652683e1f236",
+                  "deliveryCharge": 60,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "skateboarding", "men"],
+                  "salesPrice": "9000",
+                  "price": "11000",
+                  "hilights": [
+                    "Iconic and stylish skateboarding shoes",
+                    "Canvas and suede upper",
+                    "Padded collar for support and flexibility",
+                    "Vulcanized rubber outsole",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Vans",
+                  "warranty": "true",
+                  "instock": "10"
+                },
+                {
+                  "name": "Converse Chuck Taylor All Star",
+                  "shopId": "b1a19e9c87823f4dc187eab5",
+                  "deliveryCharge": 40,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "sneakers", "men"],
+                  "salesPrice": "6000",
+                  "price": "8000",
+                  "hilights": [
+                    "Classic and timeless sneakers",
+                    "Canvas upper",
+                    "High-top design with lace-up closure",
+                    "Rubber toe cap and outsole",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Converse",
+                  "warranty": "true",
+                  "instock": "12"
+                },
+                {
+                  "name": "New Balance 574",
+                  "shopId": "ca8523dbf3763179c73943e2",
+                  "deliveryCharge": 50,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "sneakers", "men"],
+                  "salesPrice": "10000",
+                  "price": "12000",
+                  "hilights": [
+                    "Classic and comfortable sneakers",
+                    "Suede and mesh upper",
+                    "ENCAP midsole for support and durability",
+                    "Rubber outsole for traction",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "New Balance",
+                  "warranty": "true",
+                  "instock": "15"
+                },
+                {
+                  "name": "Skechers Go Walk 5",
+                  "shopId": "16a3524d70d762051c87e60f",
+                  "deliveryCharge": 60,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "walking", "men"],
+                  "salesPrice": "8000",
+                  "price": "9000",
+                  "hilights": [
+                    "Comfortable and lightweight walking shoes",
+                    "Breathable mesh upper",
+                    "High-rebound cushioning",
+                    "Flexible rubber sole",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Skechers",
+                  "warranty": "true",
+                  "instock": "8"
+                },
+                {
+                  "name": "Merrell Moab 2 Vent",
+                  "shopId": "53d1e2d8d0d7954e2d857a8d",
+                  "deliveryCharge": 70,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "hiking", "men"],
+                  "salesPrice": "12000",
+                  "price": "14000",
+                  "hilights": [
+                    "Durable and breathable hiking shoes",
+                    "Suede and mesh upper",
+                    "Vibram outsole for traction",
+                    "Air cushion in the heel for shock absorption",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Merrell",
+                  "warranty": "true",
+                  "instock": "6"
+                },
+                {
+                  "name": "Clarks Desert Boots",
+                  "shopId": "fe0b6a129ef27d9f8dc6849e",
+                  "deliveryCharge": 50,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "boots", "men"],
+                  "salesPrice": "10000",
+                  "price": "12000",
+                  "hilights": [
+                    "Iconic and stylish desert boots",
+                    "Soft and supple suede upper",
+                    "Crepe rubber sole for comfort and grip",
+                    "Lace-up closure",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Clarks",
+                  "warranty": "true",
+                  "instock": "10"
+                },
+                {
+                  "name": "Under Armour Charged Assert 8",
+                  "shopId": "a2e297e59dcf413788e91df1",
+                  "deliveryCharge": 40,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "running", "men"],
+                  "salesPrice": "9000",
+                  "price": "11000",
+                  "hilights": [
+                    "Versatile and cushioned running shoes",
+                    "Lightweight mesh upper",
+                    "Charged Cushioning midsole",
+                    "Durable rubber outsole",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Under Armour",
+                  "warranty": "true",
+                  "instock": "12"
+                },
+                {
+                  "name": "Salomon Speedcross 5",
+                  "shopId": "9b8e5b08093a48b0c970a9be",
+                  "deliveryCharge": 50,
+                  "category": "shoes",
+                  "subCategory": "men",
+                  "tag": ["shoes", "trail running", "men"],
+                  "salesPrice": "15000",
+                  "price": "18000",
+                  "hilights": [
+                    "Durable and grippy trail running shoes",
+                    "SensiFit and Quicklace systems",
+                    "EnergyCell midsole for cushioning",
+                    "Contagrip rubber outsole",
+                    "Available in various colors"
+                  ],
+                  "images": [
+                    "https://static-01.daraz.com.np/p/74b057460b6c4786a399e39395658582.jpg"
+                  ],
+                  "brand": "Merrell",
+                  "warranty": "true",
+                  "instock": "6"
+                }
+                ,
+                  {
+                    "name": "Casio G-Shock GA-2100-4A",
+                    "shopId": "64b00a7c7eba0d1140ff4e16",
+                    "deliveryCharge": 60,
+                    "category": "watches",
+                    "subCategory": "digital",
+                    "tag": [
+                      "G-Shock",
+                      "Digital",
+                      "Red"
+                    ],
+                    "salesPrice": "10000",
+                    "price": "12000",
+                    "hilights": [
+                      "Shock resistant",
+                      "200-meter water resistance",
+                      "LED backlight",
+                      "World time",
+                      "Countdown timer"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Casio",
+                    "warranty": "true",
+                    "instock": "30"
+                  },
+                  {
+                    "name": "Seiko 5 Sports SRPD55K2",
+                    "shopId": "3ffaf706f55f2862fb87a0ab",
+                    "deliveryCharge": 50,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Seiko",
+                      "Analog",
+                      "Automatic"
+                    ],
+                    "salesPrice": "20000",
+                    "price": "24000",
+                    "hilights": [
+                      "Automatic movement",
+                      "Day and date function",
+                      "Stainless steel case",
+                      "Hardlex crystal",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Seiko",
+                    "warranty": "true",
+                    "instock": "20"
+                  },
+                  {
+                    "name": "Fossil Gen 5 Carlyle HR",
+                    "shopId": "b58b371c33f76a3be07b3284",
+                    "deliveryCharge": 40,
+                    "category": "watches",
+                    "subCategory": "smart",
+                    "tag": [
+                      "Fossil",
+                      "Smartwatch",
+                      "Wear OS"
+                    ],
+                    "salesPrice": "25000",
+                    "price": "28000",
+                    "hilights": [
+                      "Wear OS by Google",
+                      "Heart rate tracking",
+                      "Built-in GPS",
+                      "Swimproof design",
+                      "Voice commands"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Fossil",
+                    "warranty": "true",
+                    "instock": "15"
+                  },
+                  {
+                    "name": "Citizen Eco-Drive AW1360-12H",
+                    "shopId": "9f5f43b67962b3d1e5dbb383",
+                    "deliveryCharge": 35,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Citizen",
+                      "Analog",
+                      "Eco-Drive"
+                    ],
+                    "salesPrice": "15000",
+                    "price": "18000",
+                    "hilights": [
+                      "Eco-Drive technology (powered by light)",
+                      "Date function",
+                      "Nylon strap",
+                      "Luminous hands",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Citizen",
+                    "warranty": "true",
+                    "instock": "25"
+                  },
+                  {
+                    "name": "Rolex Submariner Date 116610LN",
+                    "shopId": "bc56e7c5aefeb2f6022f944e",
+                    "deliveryCharge": 60,
+                    "category": "watches",
+                    "subCategory": "luxury",
+                    "tag": [
+                      "Rolex",
+                      "Luxury",
+                      "Automatic"
+                    ],
+                    "salesPrice": "500000",
+                    "price": "550000",
+                    "hilights": [
+                      "Automatic movement",
+                      "Date function",
+                      "Ceramic bezel",
+                      "Stainless steel case",
+                      "Water resistant up to 300 meters"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Rolex",
+                    "warranty": "true",
+                    "instock": "10"
+                  },
+                  {
+                    "name": "Tissot T-Touch Expert Solar II",
+                    "shopId": "d8f672e7c6b4ddc7b2438d2b",
+                    "deliveryCharge": 45,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Tissot",
+                      "Analog",
+                      "Solar"
+                    ],
+                    "salesPrice": "60000",
+                    "price": "65000",
+                    "hilights": [
+                      "Solar-powered",
+                      "Touchscreen functionality",
+                      "Altimeter and compass",
+                      "Titanium case",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Tissot",
+                    "warranty": "true",
+                    "instock": "12"
+                  },
+                  {
+                    "name": "Omega Seamaster Diver 300M",
+                    "shopId": "e097a4b85bc77284b02b9e82",
+                    "deliveryCharge": 55,
+                    "category": "watches",
+                    "subCategory": "luxury",
+                    "tag": [
+                      "Omega",
+                      "Luxury",
+                      "Diver"
+                    ],
+                    "salesPrice": "400000",
+                    "price": "450000",
+                    "hilights": [
+                      "Automatic movement",
+                      "300-meter water resistance",
+                      "Helium escape valve",
+                      "Co-Axial escapement",
+                      "Chronometer certified"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Omega",
+                    "warranty": "true",
+                    "instock": "8"
+                  },
+                  {
+                    "name": "TAG Heuer Carrera Calibre 16",
+                    "shopId": "a1591b3336697df0e6c47c18",
+                    "deliveryCharge": 50,
+                    "category": "watches",
+                    "subCategory": "luxury",
+                    "tag": [
+                      "TAG Heuer",
+                      "Luxury",
+                      "Chronograph"
+                    ],
+                    "salesPrice": "300000",
+                    "price": "350000",
+                    "hilights": [
+                      "Automatic movement",
+                      "Chronograph function",
+                      "Stainless steel case",
+                      "Sapphire crystal",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "TAG Heuer",
+                    "warranty": "true",
+                    "instock": "15"
+                  },
+                  {
+                    "name": "Casio Edifice EF-527D-1AVEF",
+                    "shopId": "bf4cb293edc7af9c572e5b25",
+                    "deliveryCharge": 40,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Casio",
+                      "Analog",
+                      "Chronograph"
+                    ],
+                    "salesPrice": "8000",
+                    "price": "10000",
+                    "hilights": [
+                      "Quartz movement",
+                      "Chronograph function",
+                      "Stainless steel case",
+                      "Mineral crystal",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Casio",
+                    "warranty": "true",
+                    "instock": "20"
+                  },
+                  {
+                    "name": "Citizen Promaster Diver BN0151-09L",
+                    "shopId": "57b0f877c08e6b3e9a36d5f3",
+                    "deliveryCharge": 35,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Citizen",
+                      "Analog",
+                      "Diver"
+                    ],
+                    "salesPrice": "12000",
+                    "price": "15000",
+                    "hilights": [
+                      "Quartz movement",
+                      "Date function",
+                      "Stainless steel case",
+                      "Polyurethane strap",
+                      "Water resistant up to 200 meters"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Citizen",
+                    "warranty": "true",
+                    "instock": "25"
+                  },
+                  {
+                    "name": "Timex Weekender TW2P72100",
+                    "shopId": "1c9c2e3fb98204b2931c984c",
+                    "deliveryCharge": 30,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Timex",
+                      "Analog",
+                      "Casual"
+                    ],
+                    "salesPrice": "5000",
+                    "price": "6000",
+                    "hilights": [
+                      "Quartz movement",
+                      "Date function",
+                      "Brass case",
+                      "Nylon strap",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Timex",
+                    "warranty": "true",
+                    "instock": "30"
+                  },
+                  {
+                    "name": "Longines Master Collection L2.919.4.78.3",
+                    "shopId": "3dc7d6d6d3be354f3f45d9d3",
+                    "deliveryCharge": 50,
+                    "category": "watches",
+                    "subCategory": "luxury",
+                    "tag": [
+                      "Longines",
+                      "Luxury",
+                      "Automatic"
+                    ],
+                    "salesPrice": "180000",
+                    "price": "200000",
+                    "hilights": [
+                      "Automatic movement",
+                      "Date function",
+                      "Stainless steel case",
+                      "Sapphire crystal",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Longines",
+                    "warranty": "true",
+                    "instock": "10"
+                  },
+                  {
+                    "name": "Swatch Irony YVS440",
+                    "shopId": "2fbfbfbf1e4a6a6a6a3e7c7c",
+                    "deliveryCharge": 45,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Swatch",
+                      "Analog",
+                      "Slim"
+                    ],
+                    "salesPrice": "7000",
+                    "price": "8000",
+                    "hilights": [
+                      "Quartz movement",
+                      "Date function",
+                      "Stainless steel case",
+                      "Leather strap",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Swatch",
+                    "warranty": "true",
+                    "instock": "20"
+                  },
+                  {
+                    "name": "Rado HyperChrome R32109162",
+                    "shopId": "c42b1d7e55f30e4d12a5d4e4",
+                    "deliveryCharge": 55,
+                    "category": "watches",
+                    "subCategory": "luxury",
+                    "tag": [
+                      "Rado",
+                      "Luxury",
+                      "Automatic"
+                    ],
+                    "salesPrice": "350000",
+                    "price": "380000",
+                    "hilights": [
+                      "Automatic movement",
+                      "Date function",
+                      "Ceramic case and bracelet",
+                      "Sapphire crystal",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Rado",
+                    "warranty": "true",
+                    "instock": "8"
+                  },
+                  {
+                    "name": "Hugo Boss Grand Prix HB1513478",
+                    "shopId": "e0585f1705f804155fbe5324",
+                    "deliveryCharge": 40,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Hugo Boss",
+                      "Analog",
+                      "Chronograph"
+                    ],
+                    "salesPrice": "18000",
+                    "price": "20000",
+                    "hilights": [
+                      "Quartz movement",
+                      "Chronograph function",
+                      "Stainless steel case",
+                      "Leather strap",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Hugo Boss",
+                    "warranty": "true",
+                    "instock": "15"
+                  },
+                  {
+                    "name": "Fossil Grant FS4735",
+                    "shopId": "aa8eeaceae6e8e9eaaeb8c8c",
+                    "deliveryCharge": 35,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Fossil",
+                      "Analog",
+                      "Classic"
+                    ],
+                    "salesPrice": "9000",
+                    "price": "10000",
+                    "hilights": [
+                      "Quartz movement",
+                      "Date function",
+                      "Stainless steel case",
+                      "Leather strap",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Fossil",
+                    "warranty": "true",
+                    "instock": "25"
+                  },
+                  {
+                    "name": "Tommy Hilfiger Cool Sport 1791345",
+                    "shopId": "595838c80f0b0f4c5408f5f8",
+                    "deliveryCharge": 30,
+                    "category": "watches",
+                    "subCategory": "analog",
+                    "tag": [
+                      "Tommy Hilfiger",
+                      "Analog",
+                      "Sport"
+                    ],
+                    "salesPrice": "11000",
+                    "price": "12000",
+                    "hilights": [
+                      "Quartz movement",
+                      "Date function",
+                      "Stainless steel case",
+                      "Silicone strap",
+                      "Water resistant"
+                    ],
+                    "images": [
+                      "https://static-01.daraz.com.np/p/8574fd43422da8cc65f7b531738e0683.jpg"
+                    ],
+                    "brand": "Tommy Hilfiger",
+                    "warranty": "true",
+                    "instock": "20"
+                  },
+                  
+                    {
+                      "name": "Apple iPhone 12",
+                      "shopId": "a2b6f83c475a89d07e289e8c",
+                      "deliveryCharge": 100,
+                      "category": "electronics",
+                      "subCategory": "smartphones",
+                      "tag": ["smartphone", "Apple", "iOS"],
+                      "salesPrice": "100000",
+                      "price": "110000",
+                      "hilights": [
+                        "6.1-inch Super Retina XDR display",
+                        "A14 Bionic chip",
+                        "Dual-camera system",
+                        "Face ID for secure authentication",
+                        "Water and dust resistant"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Apple",
+                      "warranty": "true",
+                      "instock": "20"
+                    },
+                    {
+                      "name": "Samsung Galaxy S21 Ultra",
+                      "shopId": "7e9823dcce551b94f7c65da0",
+                      "deliveryCharge": 150,
+                      "category": "electronics",
+                      "subCategory": "smartphones",
+                      "tag": ["smartphone", "Samsung", "Android"],
+                      "salesPrice": "120000",
+                      "price": "130000",
+                      "hilights": [
+                        "6.8-inch Dynamic AMOLED 2X display",
+                        "Exynos 2100 / Snapdragon 888 processor",
+                        "108MP quad-camera system",
+                        "S Pen support",
+                        "5,000mAh battery"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Samsung",
+                      "warranty": "true",
+                      "instock": "15"
+                    },
+                    {
+                      "name": "OnePlus 9 Pro",
+                      "shopId": "ac7d9a667f22f3b6c25a03d4",
+                      "deliveryCharge": 120,
+                      "category": "electronics",
+                      "subCategory": "smartphones",
+                      "tag": ["smartphone", "OnePlus", "Android"],
+                      "salesPrice": "90000",
+                      "price": "95000",
+                      "hilights": [
+                        "6.7-inch Fluid AMOLED display",
+                        "Qualcomm Snapdragon 888 processor",
+                        "48MP quad-camera system",
+                        "Warp Charge 65T fast charging",
+                        "OxygenOS based on Android"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "OnePlus",
+                      "warranty": "true",
+                      "instock": "18"
+                    },
+                    {
+                      "name": "Google Pixel 5",
+                      "shopId": "4e6bf7bcdb94f7b98c9510f8",
+                      "deliveryCharge": 100,
+                      "category": "electronics",
+                      "subCategory": "smartphones",
+                      "tag": ["smartphone", "Google", "Android"],
+                      "salesPrice": "75000",
+                      "price": "80000",
+                      "hilights": [
+                        "6.0-inch OLED display",
+                        "Qualcomm Snapdragon 765G processor",
+                        "Dual-camera system",
+                        "Pure Android experience",
+                        "Water and dust resistant"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Google",
+                      "warranty": "true",
+                      "instock": "22"
+                    },
+                    {
+                      "name": "Sony PlayStation 5",
+                      "shopId": "57b0f877c08e6b3e9a36d5f3",
+                      "deliveryCharge": 150,
+                      "category": "electronics",
+                      "subCategory": "gaming consoles",
+                      "tag": ["gaming console", "PlayStation", "gaming"],
+                      "salesPrice": "70000",
+                      "price": "75000",
+                      "hilights": [
+                        "4K gaming and entertainment",
+                        "Custom AMD Zen 2 CPU and RDNA 2 GPU",
+                        "Ultra-High-Speed SSD",
+                        "Ray tracing support",
+                        "DualSense wireless controller"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Sony",
+                      "warranty": "true",
+                      "instock": "12"
+                    },
+                    {
+                      "name": "Xiaomi Mi 11",
+                      "shopId": "bf4cb293edc7af9c572e5b25",
+                      "deliveryCharge": 120,
+                      "category": "electronics",
+                      "subCategory": "smartphones",
+                      "tag": ["smartphone", "Xiaomi", "Android"],
+                      "salesPrice": "60000",
+                      "price": "65000",
+                      "hilights": [
+                        "6.81-inch AMOLED display",
+                        "Qualcomm Snapdragon 888 processor",
+                        "108MP triple-camera system",
+                        "Harman Kardon tuned dual speakers",
+                        "MIUI 12 based on Android"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Xiaomi",
+                      "warranty": "true",
+                      "instock": "20"
+                    },
+                    {
+                      "name": "LG OLED CX 55-Inch TV",
+                      "shopId": "57b0f877c08e6b3e9a36d5f3",
+                      "deliveryCharge": 120,
+                      "category": "electronics",
+                      "subCategory": "televisions",
+                      "tag": ["television", "LG", "OLED"],
+                      "salesPrice": "150000",
+                      "price": "160000",
+                      "hilights": [
+                        "55-inch OLED display",
+                        "4K Ultra HD resolution",
+                        "α9 Gen 3 AI Processor 4K",
+                        "Dolby Vision IQ and Dolby Atmos",
+                        "ThinQ AI and webOS smart platform"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "LG",
+                      "warranty": "true",
+                      "instock": "8"
+                    },
+                    {
+                      "name": "Samsung Q80A 65-Inch TV",
+                      "shopId": "b67cc856c5a09d6422fba11f",
+                      "deliveryCharge": 150,
+                      "category": "electronics",
+                      "subCategory": "televisions",
+                      "tag": ["television", "Samsung", "QLED"],
+                      "salesPrice": "180000",
+                      "price": "200000",
+                      "hilights": [
+                        "65-inch QLED display",
+                        "4K Ultra HD resolution",
+                        "Quantum Processor 4K",
+                        "Quantum HDR 12X",
+                        "Smart TV powered by Tizen"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Samsung",
+                      "warranty": "true",
+                      "instock": "10"
+                    },
+                    {
+                      "name": "Sony WH-1000XM4 Wireless Headphones",
+                      "shopId": "867ea6beed68a5131bc869fd",
+                      "deliveryCharge": 50,
+                      "category": "electronics",
+                      "subCategory": "headphones",
+                      "tag": ["headphones", "Sony", "wireless"],
+                      "salesPrice": "35000",
+                      "price": "38000",
+                      "hilights": [
+                        "Industry-leading noise cancellation",
+                        "Bluetooth wireless technology",
+                        "30 hours of battery life",
+                        "Built-in microphone for hands-free calls",
+                        "Hi-Res Audio support"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Sony",
+                      "warranty": "true",
+                      "instock": "15"
+                    },
+                    {
+                      "name": "Apple MacBook Pro 13",
+                      "shopId": "debcf81e98d1a135743a4340",
+                      "deliveryCharge": 100,
+                      "category": "electronics",
+                      "subCategory": "laptops",
+                      "tag": ["laptop", "Apple", "Mac"],
+                      "salesPrice": "150000",
+                      "price": "160000",
+                      "hilights": [
+                        "13.3-inch Retina display",
+                        "Apple M1 chip",
+                        "8GB unified memory",
+                        "512GB SSD storage",
+                        "Magic Keyboard and Touch Bar"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Apple",
+                      "warranty": "true",
+                      "instock": "12"
+                    },
+                    {
+                      "name": "Dell XPS 15 Laptop",
+                      "shopId": "ea42f775a73d0c40537e57f7",
+                      "deliveryCharge": 90,
+                      "category": "electronics",
+                      "subCategory": "laptops",
+                      "tag": ["laptop", "Dell", "Windows"],
+                      "salesPrice": "160000",
+                      "price": "180000",
+                      "hilights": [
+                        "15.6-inch 4K Ultra HD display",
+                        "Intel Core i9 processor",
+                        "32GB RAM and 1TB SSD",
+                        "NVIDIA GeForce RTX graphics",
+                        "Fingerprint reader"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Dell",
+                      "warranty": "true",
+                      "instock": "8"
+                    },
+                    {
+                      "name": "Canon EOS R6 Mirrorless Camera",
+                      "shopId": "d9d00be199fe41b682a00f02",
+                      "deliveryCharge": 70,
+                      "category": "electronics",
+                      "subCategory": "cameras",
+                      "tag": ["camera", "Canon", "mirrorless"],
+                      "salesPrice": "220000",
+                      "price": "240000",
+                      "hilights": [
+                        "20.1MP full-frame CMOS sensor",
+                        "4K video recording",
+                        "DIGIC X image processor",
+                        "In-body image stabilization",
+                        "Vari-angle touchscreen LCD"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Canon",
+                      "warranty": "true",
+                      "instock": "10"
+                    },
+                    {
+                      "name": "Samsung Galaxy Tab S7",
+                      "shopId": "ea42f775a73d0c40537e57f7",
+                      "deliveryCharge": 80,
+                      "category": "electronics",
+                      "subCategory": "tablets",
+                      "tag": ["tablet", "Samsung", "Android"],
+                      "salesPrice": "80000",
+                      "price": "85000",
+                      "hilights": [
+                        "11-inch LCD display",
+                        "Snapdragon 865+ processor",
+                        "6GB RAM and 128GB storage",
+                        "Quad speakers tuned by AKG",
+                        "Included S Pen"
+                      ],
+                      "images": [
+                        "https://static-01.daraz.com.np/p/302303f73729023b478ff939ba9c5cd9.jpg"
+                      ],
+                      "brand": "Apple",
+                      "warranty": "true",
+                      "instock": "12"
+                    },
+                    
+                      {
+                        "name": "Samsung 55-inch Smart TV",
+                        "shopId": "a2b6f83c475a89d07e289e8c",
+                        "deliveryCharge": 100,
+                        "category": "electronics",
+                        "subCategory": "TV",
+                        "tag": [
+                          "TV",
+                          "Smart TV",
+                          "55-inch"
+                        ],
+                        "salesPrice": "75000",
+                        "price": "80000",
+                        "hilights": [
+                          "55-inch Ultra HD display",
+                          "Smart TV with built-in apps",
+                          "HDR and PurColor technology",
+                          "Dolby Digital Plus audio",
+                          "Multiple connectivity options"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Samsung",
+                        "warranty": "true",
+                        "instock": "15"
+                      },
+                      {
+                        "name": "Sony 65-inch 4K Smart TV",
+                        "shopId": "7e9823dcce551b94f7c65da0",
+                        "deliveryCharge": 150,
+                        "category": "electronics",
+                        "subCategory": "TV",
+                        "tag": [
+                          "TV",
+                          "Smart TV",
+                          "65-inch"
+                        ],
+                        "salesPrice": "120000",
+                        "price": "130000",
+                        "hilights": [
+                          "65-inch 4K Ultra HD display",
+                          "Smart TV with Android OS",
+                          "TRILUMINOS display technology",
+                          "X-Reality PRO for enhanced picture quality",
+                          "ClearAudio+ for immersive sound"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Sony",
+                        "warranty": "true",
+                        "instock": "10"
+                      },
+                      {
+                        "name": "LG 43-inch Full HD LED TV",
+                        "shopId": "ac7d9a667f22f3b6c25a03d4",
+                        "deliveryCharge": 120,
+                        "category": "electronics",
+                        "subCategory": "TV",
+                        "tag": [
+                          "TV",
+                          "LED TV",
+                          "43-inch"
+                        ],
+                        "salesPrice": "40000",
+                        "price": "45000",
+                        "hilights": [
+                          "43-inch Full HD display",
+                          "Dynamic Color Enhancer",
+                          "Virtual Surround Plus audio",
+                          "Simple and intuitive webOS",
+                          "Multiple connectivity options"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "LG",
+                        "warranty": "true",
+                        "instock": "20"
+                      },
+                      {
+                        "name": "TCL 55-inch QLED Android TV",
+                        "shopId": "4e6bf7bcdb94f7b98c9510f8",
+                        "deliveryCharge": 100,
+                        "category": "electronics",
+                        "subCategory": "TV",
+                        "tag": [
+                          "TV",
+                          "QLED TV",
+                          "55-inch"
+                        ],
+                        "salesPrice": "90000",
+                        "price": "95000",
+                        "hilights": [
+                          "55-inch QLED display",
+                          "Android TV with Google Assistant",
+                          "Quantum Dot technology",
+                          "Dolby Vision and HDR10+ support",
+                          "Onkyo soundbar with Dolby Atmos"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "TCL",
+                        "warranty": "true",
+                        "instock": "18"
+                      },
+                      {
+                        "name": "Haier 32-inch LED TV",
+                        "shopId": "b67cc856c5a09d6422fba11f",
+                        "deliveryCharge": 120,
+                        "category": "electronics",
+                        "subCategory": "TV",
+                        "tag": [
+                          "TV",
+                          "LED TV",
+                          "32-inch"
+                        ],
+                        "salesPrice": "25000",
+                        "price": "30000",
+                        "hilights": [
+                          "32-inch HD display",
+                          "Slim bezel design",
+                          "Digital noise reduction",
+                          "USB and HDMI connectivity",
+                          "Energy-efficient operation"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Haier",
+                        "warranty": "true",
+                        "instock": "22"
+                      },
+                      {
+                        "name": "Samsung 2.1 Channel Soundbar",
+                        "shopId": "867ea6beed68a5131bc869fd",
+                        "deliveryCharge": 80,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Soundbar",
+                          "Audio",
+                          "2.1 Channel"
+                        ],
+                        "salesPrice": "35000",
+                        "price": "38000",
+                        "hilights": [
+                          "2.1 channel system with wireless subwoofer",
+                          "Dolby Digital and DTS Virtual:X",
+                          "Adaptive Sound technology",
+                          "Bluetooth connectivity",
+                          "HDMI and optical inputs"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Samsung",
+                        "warranty": "true",
+                        "instock": "40"
+                      },
+                      {
+                        "name": "Sony 5.1 Home Theater System",
+                        "shopId": "debcf81e98d1a135743a4340",
+                        "deliveryCharge": 100,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Home Theater",
+                          "Audio",
+                          "5.1 Channel"
+                        ],
+                        "salesPrice": "90000",
+                        "price": "95000",
+                        "hilights": [
+                          "5.1 channel surround sound system",
+                          "1000W total power output",
+                          "Blu-ray disc player included",
+                          "Digital Cinema Auto Calibration",
+                          "Bluetooth and NFC connectivity"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Sony",
+                        "warranty": "true",
+                        "instock": "12"
+                      },
+                      {
+                        "name": "LG 1.5 Ton Split Air Conditioner",
+                        "shopId": "ea42f775a73d0c40537e57f7",
+                        "deliveryCharge": 90,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Air Conditioner",
+                          "Split AC",
+                          "1.5 Ton"
+                        ],
+                        "salesPrice": "80000",
+                        "price": "85000",
+                        "hilights": [
+                          "1.5 ton cooling capacity",
+                          "Dual inverter compressor",
+                          "4-in-1 convertible cooling",
+                          "Ocean Black Fin protection",
+                          "Energy-saving operation"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "LG",
+                        "warranty": "true",
+                        "instock": "16"
+                      },
+                      {
+                        "name": "Whirlpool 340L Double Door Refrigerator",
+                        "shopId": "d9d00be199fe41b682a00f02",
+                        "deliveryCharge": 50,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Refrigerator",
+                          "Double Door",
+                          "340L"
+                        ],
+                        "salesPrice": "70000",
+                        "price": "75000",
+                        "hilights": [
+                          "340L capacity with frost-free operation",
+                          "IntelliSense Inverter technology",
+                          "Active Deo and Freshonizer",
+                          "MicroBlock and Zeolite technology",
+                          "Convertible freezer and 3-star energy rating"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Whirlpool",
+                        "warranty": "true",
+                        "instock": "25"
+                      },
+                      {
+                        "name": "Panasonic 25L Microwave Oven",
+                        "shopId": "be2b9f540f66e842d6878c4b",
+                        "deliveryCharge": 30,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Microwave Oven",
+                          "25L",
+                          "Kitchen Appliance"
+                        ],
+                        "salesPrice": "15000",
+                        "price": "16000",
+                        "hilights": [
+                          "25L capacity with 800W power",
+                          "6 auto cook menus",
+                          "Defrost function",
+                          "Quick 30-second setting",
+                          "Child lock safety feature"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Panasonic",
+                        "warranty": "true",
+                        "instock": "30"
+                      },
+                      {
+                        "name": "Dyson V11 Cordless Vacuum Cleaner",
+                        "shopId": "c44a0f2d9f1ab6e93326b7eb",
+                        "deliveryCharge": 40,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Vacuum Cleaner",
+                          "Cordless",
+                          "Dyson"
+                        ],
+                        "salesPrice": "45000",
+                        "price": "48000",
+                        "hilights": [
+                          "Powerful suction with 185 AW",
+                          "LCD screen for real-time performance monitoring",
+                          "Up to 60 minutes of fade-free cleaning",
+                          "Advanced filtration system",
+                          "Transforms into a handheld vacuum"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Dyson",
+                        "warranty": "true",
+                        "instock": "20"
+                      },
+                      {
+                        "name": "Philips Steam Iron",
+                        "shopId": "df8cfad432f0a79f844f157e",
+                        "deliveryCharge": 120,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Steam Iron",
+                          "Iron",
+                          "Clothing Care"
+                        ],
+                        "salesPrice": "5000",
+                        "price": "5500",
+                        "hilights": [
+                          "Powerful steam output",
+                          "Ceramic soleplate for smooth gliding",
+                          "Vertical steaming",
+                          "Anti-calc system",
+                          "Easy temperature control"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Philips",
+                        "warranty": "true",
+                        "instock": "30"
+                      },
+                      {
+                        "name": "Kenwood Blender",
+                        "shopId": "e6489ae49be01d684c91d1d0",
+                        "deliveryCharge": 70,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Blender",
+                          "Kitchen Appliance",
+                          "Kenwood"
+                        ],
+                        "salesPrice": "6000",
+                        "price": "6500",
+                        "hilights": [
+                          "800W motor for efficient blending",
+                          "2-speed control with pulse function",
+                          "1.5L capacity jar",
+                          "Stainless steel blades",
+                          "Durable and easy to clean"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand": "Kenwood",
+                        "warranty": "true",
+                        "instock": "25"
+                      },
+                      {
+                        "name": "Bajaj Ceiling Fan",
+                        "shopId": "a2b6f83c475a89d07e289e8c",
+                        "deliveryCharge": 100,
+                        "category": "electronics",
+                        "subCategory": "home appliances",
+                        "tag": [
+                          "Ceiling Fan",
+                          "Fan",
+                          "Bajaj"
+                        ],
+                        "salesPrice": "4000",
+                        "price": "4500",
+                        "hilights": [
+                          "1200mm sweep size",
+                          "High-speed performance",
+                          "Energy-efficient operation",
+                          "Quiet and smooth operation",
+                          "Durable build quality"
+                        ],
+                        "images": [
+                          "https://static-01.daraz.com.np/p/0bc5c0c841135ac0409e240c5cb6c654.jpg"
+                        ],
+                        "brand":"LG",
+                        "warranty": "true",
+                        "instock": "16"
+                      },
+                      
+                        {
+                          "name": "Anker PowerCore 10000 Portable Charger",
+                          "shopId": "c64b13f0b9d8ae4ff7ef6b29",
+                          "deliveryCharge": 50,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Portable Charger", "Power Bank"],
+                          "salesPrice": "2500",
+                          "price": "3000",
+                          "hilights": [
+                            "High capacity portable charger",
+                            "Compact and lightweight design",
+                            "Fast charging technology",
+                            "Multiple device compatibility",
+                            "Built-in safety features"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Anker",
+                          "warranty": "true",
+                          "instock": "15"
+                        },
+                        {
+                          "name": "JBL Flip 5 Bluetooth Speaker",
+                          "shopId": "d3d3e4027b9fa53d526a51a3",
+                          "deliveryCharge": 70,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Bluetooth Speaker", "Portable Speaker"],
+                          "salesPrice": "6000",
+                          "price": "7000",
+                          "hilights": [
+                            "Wireless Bluetooth streaming",
+                            "12 hours of playtime",
+                            "Waterproof design",
+                            "JBL PartyBoost for pairing multiple speakers",
+                            "Durable fabric material"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "JBL",
+                          "warranty": "true",
+                          "instock": "12"
+                        },
+                        {
+                          "name": "Apple AirPods Pro",
+                          "shopId": "897e405db1cdaa7349776a89",
+                          "deliveryCharge": 80,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Wireless Earbuds", "Noise Cancelling"],
+                          "salesPrice": "20000",
+                          "price": "22000",
+                          "hilights": [
+                            "Active noise cancellation",
+                            "Transparency mode",
+                            "Sweat and water resistant",
+                            "Wireless charging case",
+                            "Easy setup and seamless switching"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Apple",
+                          "warranty": "true",
+                          "instock": "8"
+                        },
+                        {
+                          "name": "Samsung EVO Plus 128GB MicroSDXC",
+                          "shopId": "c0927ef9b6518b620f24b5fc",
+                          "deliveryCharge": 40,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["MicroSD Card", "Memory Card"],
+                          "salesPrice": "2500",
+                          "price": "3000",
+                          "hilights": [
+                            "128GB storage capacity",
+                            "High-speed performance",
+                            "Waterproof and temperature-proof",
+                            "Full HD video recording",
+                            "Reliable and durable"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Samsung",
+                          "warranty": "true",
+                          "instock": "10"
+                        },
+                        {
+                          "name": "Logitech MX Master 3 Wireless Mouse",
+                          "shopId": "8c09ac4b8d8d2a07e7993a7a",
+                          "deliveryCharge": 50,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Wireless Mouse", "High Precision"],
+                          "salesPrice": "6000",
+                          "price": "6500",
+                          "hilights": [
+                            "Advanced ergonomic design",
+                            "Ultrafast and precise scrolling",
+                            "Customizable buttons and profiles",
+                            "Flow cross-computer control",
+                            "Long-lasting battery life"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Logitech",
+                          "warranty": "true",
+                          "instock": "15"
+                        },
+                        {
+                          "name": "SanDisk Cruzer Blade 32GB USB Flash Drive",
+                          "shopId": "e7e4763cbf770b3a635febeb",
+                          "deliveryCharge": 40,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["USB Flash Drive", "Portable Storage"],
+                          "salesPrice": "800",
+                          "price": "1000",
+                          "hilights": [
+                            "32GB storage capacity",
+                            "Compact and portable design",
+                            "Plug and play functionality",
+                            "Secure file encryption",
+                            "Reliable and durable"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "SanDisk",
+                          "warranty": "true",
+                          "instock": "20"
+                        },
+                        {
+                          "name": "Baseus 10000mAh Power Bank",
+                          "shopId": "f5da3312b0c3945fa7d8eb88",
+                          "deliveryCharge": 50,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Power Bank", "Portable Charger"],
+                          "salesPrice": "1500",
+                          "price": "1800",
+                          "hilights": [
+                            "High capacity power bank",
+                            "Dual USB output",
+                            "Digital display",
+                            "Compact and portable design",
+                            "Multiple device compatibility"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Baseus",
+                          "warranty": "true",
+                          "instock": "18"
+                        },
+                        {
+                          "name": "TP-Link Archer C6 AC1200 Router",
+                          "shopId": "fecc49273a84a0e8967bcf59",
+                          "deliveryCharge": 60,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Router", "Wi-Fi"],
+                          "salesPrice": "3500",
+                          "price": "4000",
+                          "hilights": [
+                            "Dual band Wi-Fi router",
+                            "AC1200 wireless speed",
+                            "Four external antennas",
+                            "Easy setup and management",
+                            "Stable and reliable connection"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "TP-Link",
+                          "warranty": "true",
+                          "instock": "12"
+                        },
+                        {
+                          "name": "Sony WH-1000XM4 Wireless Headphones",
+                          "shopId": "c9d02a7f6efc0ab784e57b55",
+                          "deliveryCharge": 80,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Wireless Headphones", "Noise Cancelling"],
+                          "salesPrice": "25000",
+                          "price": "28000",
+                          "hilights": [
+                            "Industry-leading noise cancellation",
+                            "Bluetooth wireless technology",
+                            "30 hours of battery life",
+                            "Built-in microphone for hands-free calls",
+                            "Hi-Res Audio support"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Sony",
+                          "warranty": "true",
+                          "instock": "10"
+                        },
+                        {
+                          "name": "Logitech C920 HD Pro Webcam",
+                          "shopId": "a49374123ef9762f8b55bc38",
+                          "deliveryCharge": 70,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Webcam", "Video Calling"],
+                          "salesPrice": "6000",
+                          "price": "6500",
+                          "hilights": [
+                            "Full HD 1080p video calling",
+                            "Stereo audio with dual microphones",
+                            "Automatic light correction",
+                            "Flexible mounting options",
+                            "Compatible with popular video conferencing apps"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Logitech",
+                          "warranty": "true",
+                          "instock": "15"
+                        },
+                        {
+                          "name": "SteelSeries Apex Pro Mechanical Keyboard",
+                          "shopId": "b41c1325e68da7ce84409c62",
+                          "deliveryCharge": 60,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Mechanical Keyboard", "Gaming"],
+                          "salesPrice": "15000",
+                          "price": "18000",
+                          "hilights": [
+                            "Adjustable mechanical switches",
+                            "Dynamic OLED Smart Display",
+                            "Customizable RGB lighting",
+                            "Programmable macros",
+                            "Durable and premium build"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "SteelSeries",
+                          "warranty": "true",
+                          "instock": "8"
+                        },
+                        {
+                          "name": "DJI Osmo Mobile 3 Gimbal Stabilizer",
+                          "shopId": "d9ec32d6b0ca24576d09d55a",
+                          "deliveryCharge": 80,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Gimbal Stabilizer", "Mobile Photography"],
+                          "salesPrice": "9000",
+                          "price": "9500",
+                          "hilights": [
+                            "3-axis smartphone gimbal",
+                            "Foldable and portable design",
+                            "ActiveTrack 3.0",
+                            "Gesture control",
+                            "Long battery life"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "DJI",
+                          "warranty": "true",
+                          "instock": "6"
+                        },
+                        {
+                          "name": "Razer DeathAdder V2 Gaming Mouse",
+                          "shopId": "e57c77d304e60f433df5bb5e",
+                          "deliveryCharge": 70,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Gaming Mouse", "High Precision"],
+                          "salesPrice": "8000",
+                          "price": "8500",
+                          "hilights": [
+                            "High-precision 20,000 DPI optical sensor",
+                            "Razer Optical Mouse Switches",
+                            "Chroma RGB lighting",
+                            "Customizable buttons and profiles",
+                            "Ergonomic design for comfort"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Razer",
+                          "warranty": "true",
+                          "instock": "10"
+                        },
+                        {
+                          "name": "Seagate Expansion 1TB Portable Hard Drive",
+                          "shopId": "f12c85e7db7c84389c72b648",
+                          "deliveryCharge": 50,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Portable Hard Drive", "External Storage"],
+                          "salesPrice": "5000",
+                          "price": "5500",
+                          "hilights": [
+                            "1TB storage capacity",
+                            "USB 3.0 for fast data transfer",
+                            "Plug-and-play functionality",
+                            "Portable and lightweight",
+                            "Compatible with Windows and Mac"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Seagate",
+                          "warranty": "true",
+                          "instock": "15"
+                        },
+                        {
+                          "name": "OnePlus Bullets Wireless Z Earphones",
+                          "shopId": "c56d6c45a8c17c7d5ad64e55",
+                          "deliveryCharge": 40,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Wireless Earphones", "Bluetooth"],
+                          "salesPrice": "4000",
+                          "price": "4500",
+                          "hilights": [
+                            "Low-latency Bluetooth 5.0",
+                            "Warp Charge for quick charging",
+                            "10 hours of playback",
+                            "Magnetic control",
+                            "Sweat and water resistant"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "OnePlus",
+                          "warranty": "true",
+                          "instock": "12"
+                        },
+                        {
+                          "name": "AmazonBasics Lightning to USB Cable",
+                          "shopId": "98e482e48be76a9461bda232",
+                          "deliveryCharge": 40,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Lightning Cable", "Charging Cable"],
+                          "salesPrice": "800",
+                          "price": "1000",
+                          "hilights": [
+                            "Apple MFi certified",
+                            "Durable and reliable",
+                            "Compatible with various Apple devices",
+                            "Multiple length options available",
+                            "Charges and syncs data"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "AmazonBasics",
+                          "warranty": "true",
+                          "instock": "18"
+                        },
+                        {
+                          "name": "Xiaomi Mi Band 5 Fitness Tracker",
+                          "shopId": "60f1f3a0bc5b23497972b64c",
+                          "deliveryCharge": 60,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Fitness Tracker", "Smart Band"],
+                          "salesPrice": "3500",
+                          "price": "4000",
+                          "hilights": [
+                            "Large AMOLED color display",
+                            "24/7 heart rate monitoring",
+                            "11 professional sports modes",
+                            "Sleep tracking and analysis",
+                            "Water-resistant"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "Xiaomi",
+                          "warranty": "true",
+                          "instock": "10"
+                        },
+                        {
+                          "name": "AUKEY 20000mAh Power Bank",
+                          "shopId": "b85a45dab8529d8756e3d3c7",
+                          "deliveryCharge": 50,
+                          "category": "electronics",
+                          "subCategory": "accessories",
+                          "tag": ["Power Bank", "Portable Charger"],
+                          "salesPrice": "2500",
+                          "price": "3000",
+                          "hilights": [
+                            "High capacity power bank",
+                            "Dual USB output",
+                            "Built-in flashlight",
+                            "Compact and portable design",
+                            "Multiple device compatibility"
+                          ],
+                          "images": [
+                            "https://static-01.daraz.com.np/p/524a40ea297dbffe1a92b98b7a66bfec.jpg"
+                          ],
+                          "brand": "AUKEY",
+                          "warranty": "true",
+                          "instock": "8"
+                        }
+                        ,
+                          {
+                            "name": "Samsung 55-inch 4K UHD Smart TV",
+                            "shopId": "c74e13f0b9d8ae4ff7ef6b29",
+                            "deliveryCharge": 100,
+                            "category": "electronics",
+                            "subCategory": "TV",
+                            "tag": ["TV", "Smart TV", "4K"],
+                            "salesPrice": "80000",
+                            "price": "85000",
+                            "hilights": [
+                              "55-inch 4K UHD display",
+                              "Smart TV with built-in apps",
+                              "Crystal clear picture quality",
+                              "Multiple HDMI and USB ports",
+                              "Sleek and slim design"
+                            ],
+                            "images": [
+                              "https://static-01.daraz.com.np/p/78e6294088711d4784fa7921f0fbade3.jpg"
+                            ],
+                            "brand": "Samsung",
+                            "warranty": "true",
+                            "instock": "10"
+                          },
+                          {
+                            "name": "Sony HT-S350 Soundbar",
+                            "shopId": "d3d4e4027b9fa53d526a51a3",
+                            "deliveryCharge": 80,
+                            "category": "electronics",
+                            "subCategory": "Home Audio",
+                            "tag": ["Soundbar", "Home Theater"],
+                            "salesPrice": "25000",
+                            "price": "28000",
+                            "hilights": [
+                              "2.1 channel soundbar",
+                              "Wireless subwoofer",
+                              "400W total power output",
+                              "Bluetooth connectivity",
+                              "Multiple sound modes"
+                            ],
+                            "images": [
+                              "https://static-01.daraz.com.np/p/78e6294088711d4784fa7921f0fbade3.jpg"
+                            ],
+                            "brand": "Sony",
+                            "warranty": "true",
+                            "instock": "8"
+                          },
+                          {
+                            "name": "LG 27-inch Full HD IPS Monitor",
+                            "shopId": "1e63c2a6e1e9b45a9c8b041c",
+                            "deliveryCharge": 60,
+                            "category": "electronics",
+                            "subCategory": "Monitors",
+                            "tag": ["Monitor", "IPS", "Full HD"],
+                            "salesPrice": "15000",
+                            "price": "18000",
+                            "hilights": [
+                              "27-inch Full HD IPS display",
+                              "Vibrant and accurate colors",
+                              "Wide viewing angles",
+                              "Multiple connectivity options",
+                              "Slim and stylish design"
+                            ],
+                            "images": [
+                              "https://static-01.daraz.com.np/p/78e6294088711d4784fa7921f0fbade3.jpg"
+                            ],
+                            "brand": "LG",
+                            "warranty": "true",
+                            "instock": "15"
+                          },
+                          {
+                            "name": "Amazon Echo Dot (4th Gen)",
+                            "shopId": "6a5f9770e3e2f8631e2f9a6c",
+                            "deliveryCharge": 50,
+                            "category": "electronics",
+                            "subCategory": "Smart Speakers",
+                            "tag": ["Smart Speaker", "Voice Control"],
+                            "salesPrice": "5000",
+                            "price": "5500",
+                            "hilights": [
+                              "Smart speaker with Alexa",
+                              "Compact and stylish design",
+                              "Voice control for music and smart home",
+                              "Multiple connectivity options",
+                              "Hands-free calling and messaging"
+                            ],
+                            "images": [
+                              "https://static-01.daraz.com.np/p/78e6294088711d4784fa7921f0fbade3.jpg"
+                            ],
+                            "brand": "Amazon",
+                            "warranty": "true",
+                            "instock": "12"
+                          },
+                          {
+                            "name": "Philips Daily Collection Coffee Maker",
+                            "shopId": "91883c972d8fa5e26805f647",
+                            "deliveryCharge": 70,
+                            "category": "home and lifestyle",
+                            "subCategory": "Kitchen Appliances",
+                            "tag": ["Coffee Maker", "Appliances"],
+                            "salesPrice": "4000",
+                            "price": "4500",
+                            "hilights": [
+                              "Capacity: 1.2L",
+                              "Brews up to 10 cups",
+                              "Auto shut-off feature",
+                              "Drip-stop function",
+                              "Easy to clean"
+                            ],
+                            "images": [
+                              "https://static-01.daraz.com.np/p/78e6294088711d4784fa7921f0fbade3.jpg"
+                            ],
+                            "brand": "Philips",
+                            "warranty": "true",
+                            "instock": "25"
+                          },
+                          {
+                            "name": "Dyson V11 Absolute Cordless Vacuum Cleaner",
+                            "shopId": "7dcf3a7c334f30efb1020f72",
+                            "deliveryCharge": 80,
+                            "category": "home and lifestyle",
+                            "subCategory": "Cleaning Appliances",
+                            "tag": ["Cordless Vacuum Cleaner", "Home Appliances"],
+                            "salesPrice": "60000",
+                            "price": "65000",
+                            "hilights": [
+                              "Powerful suction with 185 AW",
+                              "Intelligent cleaning modes",
+                              "Up to 60 minutes of runtime",
+                              "Advanced filtration system",
+                              "Hygienic point-and-shoot bin emptying"
+                            ],
+                            "images": [
+                              "https://static-01.daraz.com.np/p/78e6294088711d4784fa7921f0fbade3.jpg"
+                            ],
+                            "brand": "Dyson",
+                            "warranty": "true",
+                            "instock": "8"
+                          },
+                          {
+                            "name": "Instant Pot Duo 7-in-1 Pressure Cooker",
+                            "shopId": "ab0a7e1b8e2ff6972bc66e88",
+                            "deliveryCharge": 100,
+                            "category": "home and lifestyle",
+                            "subCategory": "Cookware",
+                            "tag": ["Pressure Cooker", "Multicooker"],
+                            "salesPrice": "8000",
+                            "price": "9000",
+                            "hilights": [
+                              "7-in-1 programmable cooker",
+                              "Multiple cooking modes",
+                              "Large capacity",
+                              "Easy to use and clean",
+                              "Safety features for peace of mind"
+                            ],
+                            "images": [
+                              "https://static-01.daraz.com.np/p/78e6294088711d4784fa7921f0fbade3.jpg"
+                            ],
+                            "brand": "Dyson",
+                            "warranty": "true",
+                            "instock": "8"
+                          },
+                          
+                            {
+                              "name": "Nike Men's Running Shoes",
+                              "shopId": "a2b6f83c475a89d07e289e8c",
+                              "deliveryCharge": 50,
+                              "category": "sports and outdoor",
+                              "subCategory": "men",
+                              "tag": ["shoes", "running", "men"],
+                              "salesPrice": "5000",
+                              "price": "6000",
+                              "hilights": [
+                                "Breathable and lightweight",
+                                "Cushioned midsole for comfort",
+                                "Durable rubber outsole",
+                                "Available in various sizes",
+                                "Ideal for running and jogging"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Nike",
+                              "warranty": "false",
+                              "instock": "20"
+                            },
+                            {
+                              "name": "Adidas Women's Workout Leggings",
+                              "shopId": "7e9823dcce551b94f7c65da0",
+                              "deliveryCharge": 40,
+                              "category": "sports and outdoor",
+                              "subCategory": "women",
+                              "tag": ["leggings", "workout", "women"],
+                              "salesPrice": "3000",
+                              "price": "3500",
+                              "hilights": [
+                                "Stretchy and moisture-wicking fabric",
+                                "Elastic waistband for a secure fit",
+                                "Flatlock seams to reduce chafing",
+                                "Available in various sizes and colors",
+                                "Suitable for workouts and sports activities"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Adidas",
+                              "warranty": "false",
+                              "instock": "15"
+                            },
+                            {
+                              "name": "Yonex Badminton Racket",
+                              "shopId": "1e53c2a6e1e9b45a9c8b041c",
+                              "deliveryCharge": 60,
+                              "category": "sports and outdoor",
+                              "subCategory": "rackets",
+                              "tag": ["badminton", "racket", "sports"],
+                              "salesPrice": "4000",
+                              "price": "4500",
+                              "hilights": [
+                                "High-quality graphite construction",
+                                "Lightweight and durable",
+                                "Comes with a racket cover",
+                                "Suitable for players of all levels",
+                                "Ideal for badminton enthusiasts"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Yonex",
+                              "warranty": "false",
+                              "instock": "10"
+                            },
+                            {
+                              "name": "Columbia Men's Waterproof Jacket",
+                              "shopId": "6a5f9770e3e2f8631e2f9a6c",
+                              "deliveryCharge": 70,
+                              "category": "sports and outdoor",
+                              "subCategory": "men",
+                              "tag": ["jacket", "waterproof", "men"],
+                              "salesPrice": "8000",
+                              "price": "9000",
+                              "hilights": [
+                                "Waterproof and breathable",
+                                "Adjustable hood and cuffs",
+                                "Multiple pockets for storage",
+                                "Available in various sizes and colors",
+                                "Ideal for outdoor activities and hiking"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Columbia",
+                              "warranty": "false",
+                              "instock": "8"
+                            },
+                            {
+                              "name": "Puma Men's Football Shoes",
+                              "shopId": "91883c972d8fa5e26805f647",
+                              "deliveryCharge": 50,
+                              "category": "sports and outdoor",
+                              "subCategory": "men",
+                              "tag": ["shoes", "football", "men"],
+                              "salesPrice": "6000",
+                              "price": "7000",
+                              "hilights": [
+                                "Durable synthetic upper",
+                                "Stud configuration for traction",
+                                "Cushioned insole for comfort",
+                                "Available in various sizes",
+                                "Ideal for football and soccer"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Puma",
+                              "warranty": "false",
+                              "instock": "12"
+                            },
+                            {
+                              "name": "Fitbit Charge 4 Fitness Tracker",
+                              "shopId": "4ef437b27d09a1e9878ef9f2",
+                              "deliveryCharge": 60,
+                              "category": "sports and outdoor",
+                              "subCategory": "fitness trackers",
+                              "tag": ["fitness tracker", "wearable", "health"],
+                              "salesPrice": "10000",
+                              "price": "12000",
+                              "hilights": [
+                                "Tracks heart rate and activity",
+                                "Built-in GPS for distance tracking",
+                                "Sleep monitoring and sleep score",
+                                "Water-resistant design",
+                                "Long battery life"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Fitbit",
+                              "warranty": "true",
+                              "instock": "18"
+                            },
+                            {
+                              "name": "Coleman Sundome Tent",
+                              "shopId": "b5d82a09edc02c89b847eb95",
+                              "deliveryCharge": 40,
+                              "category": "sports and outdoor",
+                              "subCategory": "camping",
+                              "tag": ["tent", "camping", "outdoor"],
+                              "salesPrice": "8000",
+                              "price": "9000",
+                              "hilights": [
+                                "Spacious 4-person tent",
+                                "Easy setup with shock-corded poles",
+                                "WeatherTec system for waterproofing",
+                                "Mesh windows for ventilation",
+                                "Durable and reliable for camping trips"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Coleman",
+                              "warranty": "false",
+                              "instock": "15"
+                            },
+                            {
+                              "name": "Wilson NFL Official Football",
+                              "shopId": "ab0a7e1b8e2ff6972bc66e88",
+                              "deliveryCharge": 50,
+                              "category": "sports and outdoor",
+                              "subCategory": "football",
+                              "tag": ["football", "sports", "outdoor"],
+                              "salesPrice": "3000",
+                              "price": "3500",
+                              "hilights": [
+                                "Official size and weight",
+                                "Durable composite leather cover",
+                                "NFL branding and design",
+                                "Suitable for recreational play",
+                                "Ideal for football enthusiasts"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Wilson",
+                              "warranty": "false",
+                              "instock": "10"
+                            },
+                            {
+                              "name": "GoPro HERO8 Black",
+                              "shopId": "c8d2a469dc992e678f2d7059",
+                              "deliveryCharge": 70,
+                              "category": "sports and outdoor",
+                              "subCategory": "action cameras",
+                              "tag": ["action camera", "4K", "waterproof"],
+                              "salesPrice": "25000",
+                              "price": "28000",
+                              "hilights": [
+                                "4K Ultra HD video",
+                                "12MP photos",
+                                "Waterproof up to 33 feet",
+                                "HyperSmooth 2.0 video stabilization",
+                                "Built-in mounting"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "GoPro",
+                              "warranty": "true",
+                              "instock": "8"
+                            },
+                            {
+                              "name": "North Face Recon Backpack",
+                              "shopId": "91883c972d8fa5e26805f647",
+                              "deliveryCharge": 50,
+                              "category": "sports and outdoor",
+                              "subCategory": "backpacks",
+                              "tag": ["backpack", "outdoor", "travel"],
+                              "salesPrice": "8000",
+                              "price": "9000",
+                              "hilights": [
+                                "Spacious and organized",
+                                "Comfortable FlexVent suspension system",
+                                "Padded laptop sleeve",
+                                "Multiple pockets and compartments",
+                                "Durable and reliable for outdoor adventures"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "North Face",
+                              "warranty": "false",
+                              "instock": "12"
+                            },
+                            {
+                              "name": "Garmin Forerunner 245 Music",
+                              "shopId": "6a5f9770e3e2f8631e2f9a6c",
+                              "deliveryCharge": 60,
+                              "category": "sports and outdoor",
+                              "subCategory": "fitness trackers",
+                              "tag": ["fitness tracker", "running", "music"],
+                              "salesPrice": "20000",
+                              "price": "22000",
+                              "hilights": [
+                                "Advanced running dynamics",
+                                "Built-in GPS and heart rate monitor",
+                                "Music storage and streaming",
+                                "Training plans and performance insights",
+                                "Water-resistant design"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Garmin",
+                              "warranty": "true",
+                              "instock": "10"
+                            },
+                            {
+                              "name": "Marmot Trestles 30 Sleeping Bag",
+                              "shopId": "4ef437b27d09a1e9878ef9f2",
+                              "deliveryCharge": 50,
+                              "category": "sports and outdoor",
+                              "subCategory": "camping",
+                              "tag": ["sleeping bag", "camping", "outdoor"],
+                              "salesPrice": "6000",
+                              "price": "7000",
+                              "hilights": [
+                                "Three-season sleeping bag",
+                                "Synthetic insulation for warmth",
+                                "Spirafil high-loft insulation",
+                                "Full-length zipper with draft tube",
+                                "Compression stuff sack included"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Marmot",
+                              "warranty": "false",
+                              "instock": "15"
+                            },
+                            {
+                              "name": "Salomon XA Pro 3D Trail Running Shoes",
+                              "shopId": "b5d82a09edc02c89b847eb95",
+                              "deliveryCharge": 40,
+                              "category": "sports and outdoor",
+                              "subCategory": "men",
+                              "tag": ["shoes", "trail running", "men"],
+                              "salesPrice": "10000",
+                              "price": "12000",
+                              "hilights": [
+                                "Durable and protective",
+                                "Quicklace system for easy adjustments",
+                                "Grippy outsole for traction",
+                                "OrthoLite sockliner for cushioning",
+                                "Ideal for trail running and hiking"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Salomon",
+                              "warranty": "false",
+                              "instock": "18"
+                            },
+                            {
+                              "name": "Titleist Pro V1 Golf Balls",
+                              "shopId": "ab0a7e1b8e2ff6972bc66e88",
+                              "deliveryCharge": 50,
+                              "category": "sports and outdoor",
+                              "subCategory": "golf",
+                              "tag": ["golf", "balls", "sports"],
+                              "salesPrice": "3000",
+                              "price": "3500",
+                              "hilights": [
+                                "High-performance golf balls",
+                                "Soft feel and exceptional distance",
+                                "Consistent flight and control",
+                                "Durable cover for long-lasting play",
+                                "Ideal for golf enthusiasts"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Titleist",
+                              "warranty": "false",
+                              "instock": "10"
+                            },
+                            {
+                              "name": "Yeti Rambler Tumbler",
+                              "shopId": "c8d2a469dc992e678f2d7059",
+                              "deliveryCharge": 70,
+                              "category": "sports and outdoor",
+                              "subCategory": "drinkware",
+                              "tag": ["tumbler", "outdoor", "drink"],
+                              "salesPrice": "8000",
+                              "price": "9000",
+                              "hilights": [
+                                "Double-wall vacuum insulation",
+                                "Durable stainless steel construction",
+                                "No Sweat design",
+                                "Fits most cup holders",
+                                "Ideal for hot and cold beverages"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Yeti",
+                              "warranty": "false",
+                              "instock": "12"
+                            },
+                            {
+                              "name": "Smith Optics Maze Helmet",
+                              "shopId": "6a5f9770e3e2f8631e2f9a6c",
+                              "deliveryCharge": 60,
+                              "category": "sports and outdoor",
+                              "subCategory": "snow sports",
+                              "tag": ["helmet", "snow sports", "outdoor"],
+                              "salesPrice": "20000",
+                              "price": "22000",
+                              "hilights": [
+                                "Lightweight in-mold construction",
+                                "AirEvac ventilation system",
+                                "Adjustable dial fit system",
+                                "Removable ear pads",
+                                "Compatible with audio systems"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "Smith Optics",
+                              "warranty": "false",
+                              "instock": "10"
+                            },
+                            {
+                              "name": "CamelBak Hydration Pack",
+                              "shopId": "4ef437b27d09a1e9878ef9f2",
+                              "deliveryCharge": 50,
+                              "category": "sports and outdoor",
+                              "subCategory": "hydration packs",
+                              "tag": ["hydration pack", "outdoor", "hiking"],
+                              "salesPrice": "6000",
+                              "price": "7000",
+                              "hilights": [
+                                "Lightweight and durable",
+                                "Hydration capacity of 2 liters",
+                                "Multiple pockets for storage",
+                                "Adjustable straps for a secure fit",
+                                "Ideal for hiking and outdoor adventures"
+                              ],
+                              "images": [
+                                "https://static-01.daraz.com.np/p/0d04114be1af9e5bf8bceea591f95f7b.jpg"
+                              ],
+                              "brand": "CamelBak",
+                              "warranty": "false",
+                              "instock": "15"
+                            }
+                          ]
+
+                          
+                          
+                      
+                    
+                       
+                  
+                
+                
+          
+           
+        
+      
+      
+          
+  

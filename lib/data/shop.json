@@ -1,0 +1,139 @@
+
+[{
+  "name": "Shop 1",
+  "location": "Dharan",
+  "image": "https://static-01.daraz.com.np/other/shop/7026d3f32b312dbebd7983e61dde4cde.png_120x120q75.jpg_.webp",
+  "follower": 10
+},
+{
+  "name": "Shop 2",
+  "location": "Kathmandu",
+  "image": "https://static-01.daraz.com.np/other/shop/7d2fd3f3a4d8e61bdd23b2b1dbebedef.png_120x120q75.jpg_.webp",
+  "follower": 25
+},
+
+
+{
+  "name": "Shop 3",
+  "location": "Pokhara",
+  "image": "https://static-01.daraz.com.np/other/shop/fe63b2dcd23f3d3a4d8e4cde12dbee61.png_120x120q75.jpg_.webp",
+  "follower": 18
+},
+
+
+{
+  "name": "Shop 4",
+  "location": "Biratnagar",
+  "image": "https://static-01.daraz.com.np/other/shop/2f3a4d8e4cdebd7983e61d23dcdbebed.png_120x120q75.jpg_.webp",
+  "follower": 37
+},
+
+ 
+{
+  "name": "Shop 5",
+  "location": "Lalitpur",
+  "image": "https://static-01.daraz.com.np/other/shop/23f3a4d8e4c12dbee6debd7983dcdb2d.png_120x120q75.jpg_.webp",
+  "follower": 5
+},
+
+
+{
+  "name": "Shop 6",
+  "location": "Birgunj",
+  "image": "https://static-01.daraz.com.np/other/shop/7b2dcd23f3a4d8e4cded7983e61dbebed.png_120x120q75.jpg_.webp",
+  ",follower": 14
+},
+
+
+{
+  "name": "Shop 7",
+  "location": "Butwal",
+  "image": "https://static-01.daraz.com.np/other/shop/1dbebd7983e61d23f3a4d8e4cde2dcd.png_120x120q75.jpg_.webp",
+  "follower": 9
+},
+
+
+{
+  "name": "Shop 8",
+  "location": "Nepalgunj",
+  "image": "https://static-01.daraz.com.np/other/shop/2dcd23f3a4d8e4cdebd7983e61d3a4bed.png_120x120q75.jpg_.webp",
+  "follower": 22
+},
+
+
+{
+  "name": "Shop 9",
+  "location": "Itahari",
+  "image": "https://static-01.daraz.com.np/other/shop/1dbebd7983e61d23f3a4d8e4cde2dcd.png_120x120q75.jpg_.webp",
+  "follower": 31
+},
+
+{
+  "name": "Shop 10",
+  "location": "Hetauda",
+  "image": "https://static-01.daraz.com.np/other/shop/2dcd23f3a4d8e4cdebd7983e61d3a4bed.png_120x120q75.jpg_.webp",
+  "follower": 12
+},
+
+
+{
+  "name": "Shop 11",
+  "location": "Dhangadhi",
+  "image": "https://static-01.daraz.com.np/other/shop/5dcdbed7983e61d23f3a4d8e4cde2dcd.png_120x120q75.jpg_.webp",
+  "follower": 7
+},
+
+
+{
+  "name": "Shop 12",
+  "location": "Janakpur",
+  "image": "https://static-01.daraz.com.np/other/shop/2dcd23f3a4d8e4cdebd7983e61d3a4bed.png_120x120q75.jpg_.webp",
+  "follower": 19
+},
+
+{
+  "name": "Shop 13",
+  "location": "Bharatpur",
+  "image": "https://static-01.daraz.com.np/other/shop/6debd7983e61d23f3a4d8e4cddcdbed2.png_120x120q75.jpg_.webp",
+  "follower": 15
+},
+
+
+{
+  "name": "Shop 14",
+  "location": "Ghorahi",
+  "image": "https://static-01.daraz.com.np/other/shop/7bd7983e61d23f3a4d8e4cdebdcd23fc.png_120x120q75.jpg_.webp",
+  "follower": 11
+},
+
+
+{
+  "name": "Shop 15",
+  "location": "Butwal",
+  "image": "https://static-01.daraz.com.np/other/shop/8e4cdebd7983e61d23f3a4d8e4cd2dcdb.png_120x120q75.jpg_.webp",
+  "follower": 27
+},
+
+
+{
+  "name": "Shop 16",
+  "location": "Dhangadhi",
+  "image": "https://static-01.daraz.com.np/other/shop/3f3a4d8e4cdebd7983e61d23dcdbee61.png_120x120q75.jpg_.webp",
+  "follower": 8
+},
+
+{
+  "name": "Shop 17",
+  "location": "Kathmandu",
+  "image": "https://static-01.daraz.com.np/other/shop/1d23f3a4d8e4cdebd7983e61d23dcdbe.png_120x120q75.jpg_.webp",
+  "follower": 20
+},
+
+
+{
+  "name": "Shop 18",
+  "location": "Birgunj",
+  "image": "https://static-01.daraz.com.np/other/shop/7b2dcd23f3a4d8e4cded7983e61dbebed.png_120x120q75.jpg_.webp",
+  "follower":500
+}
+]

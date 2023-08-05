@@ -1,0 +1,73 @@
+[
+    {
+      "phone": "98197833333",
+      "name": "Devraj Shrestha",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"1"
+    },
+    {
+      "phone": "98177944444",
+      "name": "John Doe",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"rr@example.com"
+    },
+    {
+      "phone": "981955776555",
+      "name": "Jane Smith",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"rree@example.com"
+    },
+    {
+      "phone": "981966655666",
+      "name": "Alex Johnson",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"rr43@example.com"
+    },
+    {
+      "phone": "98197776677",
+      "name": "Emily Wilson",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"rreeee@example.com"
+    },
+    {
+      "phone": "981988888",
+      "name": "Michael Brown",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"rwwwr@example.com"
+    },
+    {
+      "phone": "9819999599",
+      "name": "Sophia Davis",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"rrkkff@example.com"
+    },
+    {
+      "phone": "9819311111",
+      "name": "Daniel Miller",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"r222r@example.com"
+    },
+    {
+      "phone": "9819222272",
+      "name": "Olivia Taylor",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"rrtt@example.com"
+    },
+    {
+      "phone": "98197733333",
+      "name": "William Anderson",
+      "createdAt": "2023-07-13T13:16:05.293+00:00",
+      "updatedAt": "2023-07-13T13:16:05.293+00:00",
+      "email":"r2wr@example.com"
+    }
+  ]
+  

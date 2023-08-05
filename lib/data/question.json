@@ -1,0 +1,116 @@
+[
+    {
+        "questionAnswer": [
+            {
+                "question": "Is this product available in different colors?",
+                "answer": "Yes, it is available in red, blue, and black.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            },
+            {
+                "question": "What is the warranty period for this product?",
+                "answer": "The warranty period is 1 year.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            },
+            {
+                "question": "Can this product be used for outdoor activities?",
+                "answer": "Yes, it is suitable for outdoor use.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            },
+            {
+                "question": "What are the dimensions of this product?",
+                "answer": "The dimensions are 10 inches by 8 inches by 5 inches.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            }
+        ],
+        "productId": "64b1263ec8f0dd89ce567f4f",
+        "shopId": "64b0159e3e411d8601ad82a8"
+    },
+   {
+        "questionAnswer": [
+            {
+                "question": "What are the dimensions of this product?",
+                "answer": "The dimensions are 10 inches by 8 inches by 5 inches.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            }
+        ],
+        "productId": "64b1263ec8f0dd89ce567f4f",
+        "shopId": "64b0159e3e411d8601ad82a8"
+    },
+    {
+        "questionAnswer": [
+            {
+                "question": "Does this product come with a user manual?",
+                "answer": "Yes, it comes with a detailed user manual.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            }
+        ],
+        "productId": "64b1263ec8f0dd89ce567f4f",
+        "shopId": "64b0159e3e411d8601ad82a8"
+    },
+    {
+        "questionAnswer": [
+            {
+                "question": "Is this product suitable for sensitive skin?",
+                "answer": "Yes, it is suitable for sensitive skin.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            }
+        ],
+        "productId": "64b1263ec8f0dd89ce567f4f",
+        "shopId": "64b0159e3e411d8601ad82a8"
+    },
+    {
+        "questionAnswer": [
+            {
+                "question": "What is the weight of this product?",
+                "answer": "The weight is approximately 2 pounds.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            }
+        ],
+        "productId": "64b1263ec8f0dd89ce567f4f",
+        "shopId": "64b0159e3e411d8601ad82a8"
+    },
+    {
+        "questionAnswer": [
+            {
+                "question": "Can this product be used with other accessories?",
+                "answer": "Yes, it is compatible with various accessories.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            }
+        ],
+        "productId": "64b1263ec8f0dd89ce567f4f",
+        "shopId": "64b0159e3e411d8601ad82a8"
+    },
+    {
+        "questionAnswer": [
+            {
+                "question": "Is this product suitable for indoor use only?",
+                "answer": "No, it can be used both indoors and outdoors.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            }
+        ],
+        "productId": "64b1263ec8f0dd89ce567f4f",
+        "shopId": "64b0159e3e411d8601ad82a8"
+    },
+    {
+        "questionAnswer": [
+            {
+                "question": "What is the material of this product?",
+                "answer": "The product is made of high-quality stainless steel.",
+                "questionDate": "2023-07-14T00:00:00.000Z",
+                "userId": "64aff915fccc11dca953d950"
+            }
+        ],
+        "productId": "64b1263ec8f0dd89ce567f4f",
+        "shopId": "64b0159e3e411d8601ad82a8"
+    }
+]
