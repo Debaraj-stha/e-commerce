@@ -69,8 +69,8 @@ showModel(
                         return Row(
                           children: [
                             smallText(text: "Size:"),
-                            smallText(text: color![value.selectedItemColor]??""),
-                            smallText(text: ",${varient![value.selectedSize]}")
+                            smallText(text: color!.isNotEmpty?color[value.selectedItemColor]:""),
+                            smallText(text: varient!.isNotEmpty?varient![value.selectedSize]:"")
                           ],
                         );
                       })
@@ -112,7 +112,7 @@ showModel(
               Divider(
                 thickness: 1,
               ),
-              quantityHandle(),
+              quantityHandle(productId: id,),
               Divider(
                 thickness: 1,
               ),
@@ -121,7 +121,7 @@ showModel(
                 child: ElevatedButton(
                   onPressed: () {
                     provider.initialize();
-                    provider.addToCart(name, image, shopId, id, int.parse(salesPrice), 20, color![selectedItemColor], varient![selectedItemSize],brand:brand, shopName);
+                    provider.addToCart(context,name, image, shopId, id, int.parse(salesPrice), 20,  color!.isNotEmpty?color[selectedItemColor]:"",  varient!.isNotEmpty?varient[selectedItemColor]:"",brand:brand, shopName);
                     // provider.addToCart(name, image, shopId, id, int.parse(salesPrice), 77, color![selectedItemColor],variant![selectedItemSize], brand??"",shopName);
                   },
                   child: smallText(

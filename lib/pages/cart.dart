@@ -246,7 +246,7 @@ class _cartState extends State<cart> {
                                         text: "Rs ${item.perItem.toString()}",
                                         color: constraunts.primary,
                                       ),
-                                      quantityHandle()
+                                      quantityHandle(productId:item.productId,)
                                     ],
                                   ),
                                 ],

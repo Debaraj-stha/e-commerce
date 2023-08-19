@@ -6,6 +6,7 @@ import 'package:e_commerce/model/productsModel.dart';
 import 'package:e_commerce/pages/accountPage.dart';
 import 'package:e_commerce/pages/categoryItemPage.dart';
 import 'package:e_commerce/pages/homepage.dart';
+import 'package:e_commerce/pages/loginPage.dart';
 import 'package:e_commerce/pages/message.dart';
 import 'package:e_commerce/pages/orderProcess.dart';
 import 'package:e_commerce/utils/message.dart';
@@ -42,7 +43,7 @@ class e_commerceProvider with ChangeNotifier {
   List subCategory = [];
   int selectedItemColor = 0;
   int selectedSize = 0;
-  int quantity = 1;
+Map<String,dynamic> quantity = {};
   List<bool> isDisableButton = [false, true];
   // Map<String, Map<String, bool>> setSelectedShopProductChecked = {};
   Map<String, bool> checkBoxState = {};
@@ -215,13 +216,13 @@ class e_commerceProvider with ChangeNotifier {
   }
 
   void handleQuantityCount(
-      bool isIncrement, int oldValue, BuildContext context) {
+      bool isIncrement, int oldValue, String productId, BuildContext context) {
     if (oldValue == 1 && !isIncrement) {
-      quantity = oldValue;
+      quantity[productId] = oldValue;
       showAlertMessage(context, "Quantity can not be reduced to less than 1",
           Colors.red, true);
-    } else if (quantity >= 5 && isIncrement) {
-      quantity = oldValue;
+    } else if (quantity[productId] >= 5 && isIncrement) {
+      quantity[productId] = oldValue;
       showAlertMessage(
           context,
           "You cannot add more than 5 pieces of the same item",
@@ -229,9 +230,9 @@ class e_commerceProvider with ChangeNotifier {
           true);
     } else {
       if (isIncrement) {
-        quantity = oldValue + 1;
+        quantity[productId] = oldValue + 1;
       } else {
-        quantity = oldValue - 1;
+        quantity[productId] = oldValue - 1;
       }
     }
 
@@ -272,6 +273,7 @@ class e_commerceProvider with ChangeNotifier {
   }
 
   addToCart(
+    BuildContext context,
       String name,
       String image,
       String shopId,
@@ -281,14 +283,16 @@ class e_commerceProvider with ChangeNotifier {
       String color,
       String varient,
       String shopName,
-      {String brand = "no brand"}) {
+      {String brand = "no brand"}) async{
+await getUser();
+if(myUser.isNotEmpty){
     _dbController!
         .insert(Cart(
             deliveryCharge: deliveryCharge,
             name: name,
             image: image,
             shopId: shopId,
-            quantity: quantity,
+            quantity: quantity[productId],
             perItem: perItem,
             color: color,
             varient: varient,
@@ -297,9 +301,14 @@ class e_commerceProvider with ChangeNotifier {
             shopName: shopName))
         .then((value) {
       message("Item aded succesfully!!}", true);
+      
     }).onError((error, stackTrace) {
       message("Item does not added to cart.\n Message:${error}", false);
     });
+}
+else{
+  Navigator.push(context, MaterialPageRoute(builder: (context)=>loginPage()));
+}
     notifyListeners();
   }
 
@@ -418,8 +427,9 @@ class e_commerceProvider with ChangeNotifier {
         }
         _cartItems.removeWhere(
             (element) => deletedCartItem.contains(element.productId));
-        showAlertMessage(
-            context, "Cart item deleted successfully", Colors.green, false);
+            message("cart item deleted successfully", true);
+        // showAlertMessage(
+        //     context, "Cart item deleted successfully", Colors.green, false);
       } else {
         showAlertMessage(
             context, "Please check first cart item", Colors.red, true);
@@ -1014,7 +1024,7 @@ class e_commerceProvider with ChangeNotifier {
   }
 
   void login(String name, String phone, String password, String email,
-      String image) async {
+      String image,BuildContext context) async {
     final response = await http.post(Uri.parse(baseURL + "/login"), body: {
       "name": name,
       "phone": phone,
@@ -1023,6 +1033,7 @@ class e_commerceProvider with ChangeNotifier {
       "password": password
     });
 // _sendSMS("testing demo message", ['+9779819336010']);
+Navigator.pop(context);
     final data = json.decode(response.body);
     if (response.statusCode == 200) {
       insertUser(User.fromJson(data['data']));

@@ -17,35 +17,38 @@ class dbController {
 
   Future<Database> initializeDatabase() async {
     io.Directory documentDirectory = await getApplicationDocumentsDirectory();
-    String path = join(documentDirectory.toString(), "myMainDatabase.db");
+    String path = join(documentDirectory.toString(), "myMainDataBase.db");
     var db = await openDatabase(
       path,
-      version: 19,
+      version: 1,
       onCreate: (db, version) {
         String sql =
-            "CREATE TABLE cart( name TEXT,  image TEXT,  productId TEXT,   shopId TEXT,quantity INTEGER,perItem INTEGER ,deliveryCharge INTEGER,color TEXT,varient TEXT,brand Text,shopName text)";
-        db.execute(sql);
-      },
-      onUpgrade: (db, oldVersion, newVersion) {
-        String userTable =
+            "CREATE TABLE  cart( name TEXT,  image TEXT,  productId TEXT,   shopId TEXT,quantity INTEGER,perItem INTEGER ,deliveryCharge INTEGER,color TEXT,varient TEXT,brand Text,shopName text)";
+      
+          String userTable =
             "CREATE TABLE  myactivity( id INTEGER,item TEXT)";
-        db.execute(userTable);
+        
         String purchase =
-            "create table purchase( name TEXT,  image TEXT,  productId TEXT,  shopId TEXT,quantity INTEGER,perItem INTEGER ,deliveryCharge INTEGER,color TEXT,varient TEXT,brand Text,shopName text)";
+            "create table  purchase( name TEXT,  image TEXT,  productId TEXT,  shopId TEXT,quantity INTEGER,perItem INTEGER ,deliveryCharge INTEGER,color TEXT,varient TEXT,brand Text,shopName text)";
         String cancellation =
-            "create table cancellation( name TEXT,  image TEXT,  productId TEXT,   shopId TEXT,quantity INTEGER,perItem INTEGER ,deliveryCharge INTEGER,color TEXT,varient TEXT,brand Text,shopName text)";
+            "create table  cancellation( name TEXT,  image TEXT,  productId TEXT,   shopId TEXT,quantity INTEGER,perItem INTEGER ,deliveryCharge INTEGER,color TEXT,varient TEXT,brand Text,shopName text)";
         String order =
-            "create table myproductorders( name TEXT,  image TEXT,  productId TEXT,quantity INTEGER,perItem INTEGER,orderAt TEXT,status TEXT,orderId TEXT,color TEXT,deliveryCharge INTEGER,varient TEXT,brand Text,shopName text,shopId TEXT)";
+            "create table  myproductorders( name TEXT,  image TEXT,  productId TEXT,quantity INTEGER,perItem INTEGER,orderAt TEXT,status TEXT,orderId TEXT,color TEXT,deliveryCharge INTEGER,varient TEXT,brand Text,shopName text,shopId TEXT)";
 
         String user =
-            "create table me(name TEXT,phone TEXT,image  TEXT, email TEXT,deliveryAddress TEXT,id TEXT)";
+            "create table  me(name TEXT,phone TEXT,image  TEXT, email TEXT,deliveryAddress TEXT,id TEXT)";
         String myreview =
-            "create table review(image TEXT,review Text,productId TEXT,reviewAt TEXT,rating INTEGER)";
+            "create table  review(image TEXT,review Text,productId TEXT,reviewAt TEXT,rating INTEGER)";
+          db.execute(sql);
         db.execute(user);
         db.execute(purchase);
         db.execute(cancellation);
         db.execute(order);
         db.execute(myreview);
+        db.execute(userTable);
+      },
+      onUpgrade: (db, oldVersion, newVersion) {
+      
       },
     );
     return db;
@@ -91,9 +94,11 @@ class dbController {
   Future<List<Cart>> getList() async {
     var dbClient = await db;
     if (dbClient == null) return [];
+    else{
     final List<Map<String, Object?>> result = await dbClient!.query("cart");
 
     return result.map((e) => Cart.fromJson(e)).toList();
+    }
   }
 
   Future<Cart> insert(Cart model) async {

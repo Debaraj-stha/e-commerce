@@ -171,12 +171,9 @@ class _paymentPageState extends State<paymentPage> {
                     Divider(
                       thickness: 2,
                     ),
-                    customListTile(
-                      "Cash on delivery",
-                      "cash.jpg",
-                    ),
-                    TextButton(
-                        onPressed: () {
+                    InkWell(
+                      onTap: (){
+                        
                           provider.orderProduct(context);
                           for (var i = 0;
                               i <
@@ -187,8 +184,14 @@ class _paymentPageState extends State<paymentPage> {
                             // provider.purchaseProduct(
                             //     provider.getCheckedCartItems(provider.cart)[i]);
                           }
-                        },
-                        child: smallText(text: "buy"))
+                        
+                      },
+                      child: customListTile(
+                        "Cash on delivery",
+                        "cash.jpg",
+                      ),
+                    ),
+                    
                   ]),
                 ),
               ],

@@ -8,18 +8,20 @@ import 'package:provider/provider.dart';
 import '../provider/providers.dart';
 
 class quantityHandle extends StatefulWidget {
-  const quantityHandle({super.key});
-
+  const quantityHandle({super.key,required this.productId});
+ final String productId;
   @override
   State<quantityHandle> createState() => _quantityHandleState();
 }
 
 class _quantityHandleState extends State<quantityHandle> {
+ 
   @override
   Widget build(BuildContext context) {
     final provider = Provider.of<e_commerceProvider>(context, listen: false);
     final selectedItemColor = provider.selectedItemColor;
     final selectedItemSize = provider.selectedSize;
+    String p =widget.productId;
     return Row(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
@@ -34,9 +36,9 @@ class _quantityHandleState extends State<quantityHandle> {
                 InkWell(
                   onTap: () {
                     if (provider.isDisableButton[0]) {
-                      provider.disableButton(value.quantity);
+                      provider.disableButton(value.quantity[p]);
                       provider.handleQuantityCount(
-                          false, value.quantity, context);
+                          false, value.quantity[p],p, context);
                     } else {
                       null;
                     }
@@ -70,9 +72,9 @@ class _quantityHandleState extends State<quantityHandle> {
                 InkWell(
                   onTap: () {
                     if (provider.isDisableButton[1]) {
-                      provider.disableButton(value.quantity);
+                      provider.disableButton(value.quantity[p]);
                       provider.handleQuantityCount(
-                          true, value.quantity, context);
+                          true, value.quantity[p],p, context);
                     } else {
                       null;
                     }
