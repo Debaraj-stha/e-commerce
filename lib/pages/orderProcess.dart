@@ -66,7 +66,7 @@ class _orderPerocessState extends State<orderPerocess> {
                                   Consumer<e_commerceProvider>(
                                       builder: ((context, value, child) {
                                     return smallText(
-                                        text: value.myLocation.toString()??"");
+                                        text: value.myLocation.toString());
                                   })),
                                
                                   Icon(Icons.arrow_forward_ios)

@@ -43,7 +43,7 @@ class e_commerceProvider with ChangeNotifier {
   List subCategory = [];
   int selectedItemColor = 0;
   int selectedSize = 0;
-Map<String,dynamic> quantity = {};
+  Map<String, dynamic> quantity = {};
   List<bool> isDisableButton = [false, true];
   // Map<String, Map<String, bool>> setSelectedShopProductChecked = {};
   Map<String, bool> checkBoxState = {};
@@ -59,6 +59,7 @@ Map<String,dynamic> quantity = {};
   List<userActivity> myActivity = [];
   int deliveryCharge = 1;
   int totalProductCost = 1;
+  int deliveryStatusIndex = 0;
   // List<List<String>> userActivity = [];
   List<String> usercativitycategoryItems = [];
   List<String> userActivitysubcategoryItems = [];
@@ -273,7 +274,7 @@ Map<String,dynamic> quantity = {};
   }
 
   addToCart(
-    BuildContext context,
+      BuildContext context,
       String name,
       String image,
       String shopId,
@@ -283,32 +284,31 @@ Map<String,dynamic> quantity = {};
       String color,
       String varient,
       String shopName,
-      {String brand = "no brand"}) async{
-await getUser();
-if(myUser.isNotEmpty){
-    _dbController!
-        .insert(Cart(
-            deliveryCharge: deliveryCharge,
-            name: name,
-            image: image,
-            shopId: shopId,
-            quantity: quantity[productId],
-            perItem: perItem,
-            color: color,
-            varient: varient,
-            brand: brand,
-            productId: productId,
-            shopName: shopName))
-        .then((value) {
-      message("Item aded succesfully!!}", true);
-      
-    }).onError((error, stackTrace) {
-      message("Item does not added to cart.\n Message:${error}", false);
-    });
-}
-else{
-  Navigator.push(context, MaterialPageRoute(builder: (context)=>loginPage()));
-}
+      {String brand = "no brand"}) async {
+    await getUser();
+    if (myUser.isNotEmpty) {
+      _dbController!
+          .insert(Cart(
+              deliveryCharge: deliveryCharge,
+              name: name,
+              image: image,
+              shopId: shopId,
+              quantity: quantity[productId],
+              perItem: perItem,
+              color: color,
+              varient: varient,
+              brand: brand,
+              productId: productId,
+              shopName: shopName))
+          .then((value) {
+        message("Item aded succesfully!!}", true);
+      }).onError((error, stackTrace) {
+        message("Item does not added to cart.\n Message:${error}", false);
+      });
+    } else {
+      Navigator.push(
+          context, MaterialPageRoute(builder: (context) => loginPage()));
+    }
     notifyListeners();
   }
 
@@ -427,7 +427,7 @@ else{
         }
         _cartItems.removeWhere(
             (element) => deletedCartItem.contains(element.productId));
-            message("cart item deleted successfully", true);
+        message("cart item deleted successfully", true);
         // showAlertMessage(
         //     context, "Cart item deleted successfully", Colors.green, false);
       } else {
@@ -1010,7 +1010,7 @@ else{
           .then((value) {
         message(value.deliveryAddress.toString(), true);
       });
-    } catch (e) { 
+    } catch (e) {
       debugPrint(e.toString());
     }
   }
@@ -1024,7 +1024,7 @@ else{
   }
 
   void login(String name, String phone, String password, String email,
-      String image,BuildContext context) async {
+      String image, BuildContext context) async {
     final response = await http.post(Uri.parse(baseURL + "/login"), body: {
       "name": name,
       "phone": phone,
@@ -1033,7 +1033,7 @@ else{
       "password": password
     });
 // _sendSMS("testing demo message", ['+9779819336010']);
-Navigator.pop(context);
+    Navigator.pop(context);
     final data = json.decode(response.body);
     if (response.statusCode == 200) {
       insertUser(User.fromJson(data['data']));
@@ -1063,7 +1063,6 @@ Navigator.pop(context);
 
   void getForYouProduct() async {
     try {
-      
       final response = await http.get(Uri.parse(baseURL + "/product/for-you"));
       final data = jsonDecode(response.body);
       if (response.statusCode == 200) {
@@ -1195,6 +1194,14 @@ Navigator.pop(context);
       notifyListeners();
     } catch (e) {
       debugPrint(e.toString());
+    }
+  }
+
+  bool currentDeliveryStatusIndicator(int index) {
+    if (deliveryStatusIndex == index) {
+      return true;
+    } else {
+      return false;
     }
   }
 }
